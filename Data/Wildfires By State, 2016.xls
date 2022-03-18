@@ -1,0 +1,284 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  </head>
+  <body>
+    <table>
+    <thead><tr><th></th></tr></thead>    <tbody> <tr class="odd"><td><table>
+<tr><td>Wildfires By State, 2016</td></tr>
+<tr><td></td></tr>
+<tr><td><table><colgroup><col/><col/><col/></colgroup>
+<thead>
+<tr>
+<th>State</th>
+<th>Number of fires</th>
+<th>Number of acres burned&nbsp;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Alaska</td>
+<td>572</td>
+<td>496,467</td>
+</tr>
+<tr>
+<td>Alabama</td>
+<td>3,923</td>
+<td>59,030</td>
+</tr>
+<tr>
+<td>Arizona</td>
+<td>2,288</td>
+<td>308,245</td>
+</tr>
+<tr>
+<td>Arkansas</td>
+<td>1,513</td>
+<td>33,371</td>
+</tr>
+<tr>
+<td>California</td>
+<td>7,349</td>
+<td>560,815</td>
+</tr>
+<tr>
+<td>Colorado</td>
+<td>1,190</td>
+<td>129,495</td>
+</tr>
+<tr>
+<td>Connecticut</td>
+<td>268</td>
+<td>778</td>
+</tr>
+<tr>
+<td>Delaware</td>
+<td>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (1)</td>
+<td>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(1)</td>
+</tr>
+<tr>
+<td>Florida</td>
+<td>3,067</td>
+<td>74,416</td>
+</tr>
+<tr>
+<td>Georgia</td>
+<td>5,086</td>
+<td>52,119</td>
+</tr>
+<tr>
+<td>Hawaii</td>
+<td>10</td>
+<td>15,098</td>
+</tr>
+<tr>
+<td>Idaho</td>
+<td>630</td>
+<td>361,649</td>
+</tr>
+<tr>
+<td>Illinois</td>
+<td>12</td>
+<td>133</td>
+</tr>
+<tr>
+<td>Indiana</td>
+<td>27</td>
+<td>620</td>
+</tr>
+<tr>
+<td>Iowa</td>
+<td>465</td>
+<td>21,371</td>
+</tr>
+<tr>
+<td>Kansas</td>
+<td>75</td>
+<td>349,829</td>
+</tr>
+<tr>
+<td>Kentucky</td>
+<td>1,220</td>
+<td>73,864</td>
+</tr>
+<tr>
+<td>Louisiana</td>
+<td>508</td>
+<td>7,799</td>
+</tr>
+<tr>
+<td>Maine</td>
+<td>796</td>
+<td>946</td>
+</tr>
+<tr>
+<td>Maryland</td>
+<td>120</td>
+<td>242</td>
+</tr>
+<tr>
+<td>Massachusetts</td>
+<td>1,526</td>
+<td>1,381</td>
+</tr>
+<tr>
+<td>Michigan</td>
+<td>389</td>
+<td>3,666</td>
+</tr>
+<tr>
+<td>Minnesota</td>
+<td>1,422</td>
+<td>12,268</td>
+</tr>
+<tr>
+<td>Mississippi</td>
+<td>94</td>
+<td>8,128</td>
+</tr>
+<tr>
+<td>Missouri</td>
+<td>2,610</td>
+<td>32,134</td>
+</tr>
+<tr>
+<td>Montana</td>
+<td>2,026</td>
+<td>114,594</td>
+</tr>
+<tr>
+<td>Nebraska</td>
+<td>45</td>
+<td>24,498</td>
+</tr>
+<tr>
+<td>Nevada</td>
+<td>467</td>
+<td>265,156</td>
+</tr>
+<tr>
+<td>New Hampshire</td>
+<td>148</td>
+<td>880</td>
+</tr>
+<tr>
+<td>New Jersey</td>
+<td>1,050</td>
+<td>4,445</td>
+</tr>
+<tr>
+<td>New Mexico</td>
+<td>1,240</td>
+<td>212,425</td>
+</tr>
+<tr>
+<td>New York&nbsp;</td>
+<td>196</td>
+<td>4,236</td>
+</tr>
+<tr>
+<td>North Carolina</td>
+<td>4,007</td>
+<td>88,109</td>
+</tr>
+<tr>
+<td>North Dakota</td>
+<td>563</td>
+<td>4,657</td>
+</tr>
+<tr>
+<td>Ohio</td>
+<td>410</td>
+<td>1,116</td>
+</tr>
+<tr>
+<td>Oklahoma</td>
+<td>1,938</td>
+<td>767,780</td>
+</tr>
+<tr>
+<td>Oregon</td>
+<td>1,245</td>
+<td>219,509</td>
+</tr>
+<tr>
+<td>Pennsylvania</td>
+<td>871</td>
+<td>12,245</td>
+</tr>
+<tr>
+<td>Rhode Island</td>
+<td>79</td>
+<td>57</td>
+</tr>
+<tr>
+<td>South Carolina</td>
+<td>982</td>
+<td>3,804</td>
+</tr>
+<tr>
+<td>South Dakota</td>
+<td>1,216</td>
+<td>81,561</td>
+</tr>
+<tr>
+<td>Tennessee</td>
+<td>2,165</td>
+<td>88,038</td>
+</tr>
+<tr>
+<td>Texas</td>
+<td>9,300</td>
+<td>356,680</td>
+</tr>
+<tr>
+<td>Utah</td>
+<td>1,078</td>
+<td>101,096</td>
+</tr>
+<tr>
+<td>Vermont</td>
+<td>150</td>
+<td>386</td>
+</tr>
+<tr>
+<td>Virginia</td>
+<td>580</td>
+<td>41,441</td>
+</tr>
+<tr>
+<td>Washington</td>
+<td>1,272</td>
+<td>293,717</td>
+</tr>
+<tr>
+<td>West Virginia</td>
+<td>18</td>
+<td>443</td>
+</tr>
+<tr>
+<td>Wisconsin</td>
+<td>713</td>
+<td>695</td>
+</tr>
+<tr>
+<td>Wyoming</td>
+<td>711</td>
+<td>218,077</td>
+</tr>
+<tr>
+<td><strong>United States (2)</strong></td>
+<td><strong>67,743</strong></td>
+<td><strong>5,509,995</strong></td>
+</tr>
+</tbody></table>
+
+(1) Delaware had no wildfires in 2016.
+(2) Includes Puerto Rico which had 113&nbsp;fires that burned 486&nbsp;acres.
+
+Source: National Interagency Fire Center.</td></tr>
+</table></td> </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
