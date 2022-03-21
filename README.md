@@ -1,7 +1,5 @@
 # Capstone: Image Recognition with Neural Networks
 
-This project is a part of DSIR-EC-124 at [General Assembly](https://generalassemb.ly/). 
-
 #### Project Status: [Incomplete]
 
 ## Project Outline (Pre-Work)
