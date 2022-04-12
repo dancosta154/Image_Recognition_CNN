@@ -1,0 +1,52 @@
+state,num_fires,num_acres_burned
+Alabama,9130.0,159456.0
+Alaska,2756.0,4492858.0
+Arizona,12775.0,2791103.0
+Arkansas,6031.0,130223.0
+California,52848.0,10235157.0
+Colorado,6439.0,1430909.0
+Connecticut,1151.0,1643.0
+Delaware,431.0,1362.0
+District of Columbia,0.0,0.0
+Florida,15360.0,839455.0
+Georgia,18583.0,296332.0
+Hawaii,230.0,90357.0
+Idaho,6596.0,2690370.0
+Illinois,81.0,851.0
+Indiana,158.0,2960.0
+Iowa,1744.0,48739.0
+Kansas,343.0,1105099.0
+Kentucky,4490.0,153731.0
+Louisiana,3488.0,49139.0
+Maine,3974.0,3544.0
+Maryland,558.0,6369.0
+Massachusetts,5128.0,4956.0
+Michigan,2295.0,19736.0
+Minnesota,8260.0,118931.0
+Mississippi,6647.0,118462.0
+Missouri,8799.0,109911.0
+Montana,12270.0,2761052.0
+Nebraska,970.0,72163.0
+Nevada,3781.0,3061395.0
+New Hampshire,877.0,1273.0
+New Jersey,6024.0,40853.0
+New Mexico,5936.0,1049625.0
+New York,770.0,7169.0
+North Carolina,24144.0,205935.0
+North Dakota,4760.0,101638.0
+Ohio,2216.0,6190.0
+Oklahoma,9623.0,2298181.0
+Oregon,12023.0,3881414.0
+Pennsylvania,6069.0,24091.0
+Rhode Island,399.0,397.0
+South Carolina,5297.0,39814.0
+South Dakota,5135.0,229491.0
+Tennessee,4611.0,113372.0
+Texas,48849.0,2301750.0
+Utah,7180.0,1272886.0
+Vermont,469.0,854.0
+Virginia,4709.0,91794.0
+Washington,9264.0,2823108.0
+West Virginia,3580.0,37032.0
+Wisconsin,4765.0,8176.0
+Wyoming,3775.0,1022571.0

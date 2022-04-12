@@ -1,0 +1,294 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  </head>
+  <body>
+    <table>
+    <thead><tr><th></th></tr></thead>    <tbody> <tr class="odd"><td><table>
+<tr><td>Wildfires By State, 2020</td></tr>
+<tr><td><p> </p>
+</td></tr>
+<tr><td><table>
+<thead>
+<tr>
+<th>State</th>
+<th>Number of fires</th>
+<th>Number of acres burned</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Alabama</td>
+<td>836</td>
+<td>20,557</td>
+</tr>
+<tr>
+<td>Alaska</td>
+<td>349</td>
+<td>181,169</td>
+</tr>
+<tr>
+<td>Arizona</td>
+<td>2,524</td>
+<td>978,568</td>
+</tr>
+<tr>
+<td>Arkansas</td>
+<td>655</td>
+<td>12,552</td>
+</tr>
+<tr>
+<td>California</td>
+<td>10,431</td>
+<td>4,092,151</td>
+</tr>
+<tr>
+<td>Colorado</td>
+<td>1,080</td>
+<td>625,357</td>
+</tr>
+<tr>
+<td>Connecticut</td>
+<td>586</td>
+<td>383</td>
+</tr>
+<tr>
+<td>Delaware</td>
+<td>426</td>
+<td>1,356</td>
+</tr>
+<tr>
+<td>District of Columbia</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Florida</td>
+<td>2,381</td>
+<td>99,413</td>
+</tr>
+<tr>
+<td>Georgia</td>
+<td>1,699</td>
+<td>5,677</td>
+</tr>
+<tr>
+<td>Hawaii</td>
+<td>58</td>
+<td>472</td>
+</tr>
+<tr>
+<td>Idaho</td>
+<td>944</td>
+<td>314,352</td>
+</tr>
+<tr>
+<td>Illinois</td>
+<td>19</td>
+<td>240</td>
+</tr>
+<tr>
+<td>Indiana</td>
+<td>11</td>
+<td>313</td>
+</tr>
+<tr>
+<td>Iowa</td>
+<td>126</td>
+<td>2,168</td>
+</tr>
+<tr>
+<td>Kansas</td>
+<td>52</td>
+<td>34,581</td>
+</tr>
+<tr>
+<td>Kentucky</td>
+<td>524</td>
+<td>7,950</td>
+</tr>
+<tr>
+<td>Louisiana</td>
+<td>401</td>
+<td>5,880</td>
+</tr>
+<tr>
+<td>Maine</td>
+<td>1,156</td>
+<td>1,032</td>
+</tr>
+<tr>
+<td>Maryland</td>
+<td>2</td>
+<td>930</td>
+</tr>
+<tr>
+<td>Massachusetts</td>
+<td>1,189</td>
+<td>834</td>
+</tr>
+<tr>
+<td>Michigan</td>
+<td>409</td>
+<td>1,131</td>
+</tr>
+<tr>
+<td>Minnesota</td>
+<td>1,372</td>
+<td>8,838</td>
+</tr>
+<tr>
+<td>Mississippi</td>
+<td>729</td>
+<td>22,035</td>
+</tr>
+<tr>
+<td>Missouri</td>
+<td>1,090</td>
+<td>17,940</td>
+</tr>
+<tr>
+<td>Montana</td>
+<td>2,433</td>
+<td>369,633</td>
+</tr>
+<tr>
+<td>Nebraska</td>
+<td>41</td>
+<td>7,611</td>
+</tr>
+<tr>
+<td>Nevada</td>
+<td>770</td>
+<td>259,275</td>
+</tr>
+<tr>
+<td>New Hampshire</td>
+<td>252</td>
+<td>88</td>
+</tr>
+<tr>
+<td>New Jersey</td>
+<td>1,981</td>
+<td>11,919</td>
+</tr>
+<tr>
+<td>New Mexico</td>
+<td>1,018</td>
+<td>109,513</td>
+</tr>
+<tr>
+<td>New York</td>
+<td>192</td>
+<td>1,123</td>
+</tr>
+<tr>
+<td>North Carolina</td>
+<td>2,364</td>
+<td>12,875</td>
+</tr>
+<tr>
+<td>North Dakota</td>
+<td>651</td>
+<td>3,782</td>
+</tr>
+<tr>
+<td>Ohio</td>
+<td>649</td>
+<td>1,551</td>
+</tr>
+<tr>
+<td>Oklahoma</td>
+<td>1,241</td>
+<td>102,302</td>
+</tr>
+<tr>
+<td>Oregon</td>
+<td>2,215</td>
+<td>1,141,613</td>
+</tr>
+<tr>
+<td>Pennsylvania</td>
+<td>1,488</td>
+<td>2,997</td>
+</tr>
+<tr>
+<td>Puerto Rico</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Rhode Island</td>
+<td>113</td>
+<td>85</td>
+</tr>
+<tr>
+<td>South Carolina</td>
+<td>465</td>
+<td>1,754</td>
+</tr>
+<tr>
+<td>South Dakota</td>
+<td>852</td>
+<td>19,636</td>
+</tr>
+<tr>
+<td>Tennessee</td>
+<td>391</td>
+<td>4,207</td>
+</tr>
+<tr>
+<td>Texas</td>
+<td>6,713</td>
+<td>256,826</td>
+</tr>
+<tr>
+<td>Utah</td>
+<td>1,493</td>
+<td>329,735</td>
+</tr>
+<tr>
+<td>Vermont</td>
+<td>96</td>
+<td>126</td>
+</tr>
+<tr>
+<td>Virginia</td>
+<td>410</td>
+<td>5,596</td>
+</tr>
+<tr>
+<td>Washington</td>
+<td>1,646</td>
+<td>842,370</td>
+</tr>
+<tr>
+<td>West Virginia</td>
+<td>1,230</td>
+<td>8,196</td>
+</tr>
+<tr>
+<td>Wisconsin</td>
+<td>781</td>
+<td>1,785</td>
+</tr>
+<tr>
+<td>Wyoming</td>
+<td>828</td>
+<td>339,783</td>
+</tr>
+<tr>
+<td><strong>United States (1)</strong></td>
+<td><strong>59,362</strong></td>
+<td><strong>10,270,258</strong></td>
+</tr>
+</tbody></table>
+
+(1) Includes Puerto Rico.
+
+Source: National Interagency Fire Center.</td></tr>
+</table></td> </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
