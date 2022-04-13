@@ -8,7 +8,7 @@
 
 Over the past thirty years, the number of wildfires in the United States have decreased, yet the annual average of burned acreage has more than doubled. "Since 2000, an annual average of 70,600 wildfires has burned an annual average of 7.0 million acres. This figure is more than double the average annual acreage burned in the 1990s (3.3 million acres), although a greater number of fires occurred  annually in the 1990s (78,600 average).[[1]](#1)" 
 
-<img src="./acres_burned.png" width="500" height="500">
+<img src="./acres_burned.png" width="800" height="800">
 
 This spike in fire intensity has caused some of the most costly and destructive fires in United States history. As it stands today, nine of the ten most costly fires (evaluated by loss in millions) in the United States have occurred since 2007.
 
