@@ -1,6 +1,6 @@
 # Capstone: Image Recognition with Neural Networks
 
-## Identifying Wildfire Smoke within an image
+## Identifying Wildfire Smoke Within an Image
 
 ### Project Status: [Incomplete]
 
