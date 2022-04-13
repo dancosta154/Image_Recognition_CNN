@@ -1,12 +1,14 @@
 # Capstone: Image Recognition with Neural Networks
 
-## Identifying Wildfire Smoke Within an Image
+## Identifying Wildfire Smoke within an image
 
 ### Project Status: [Incomplete]
 
 ### Introduction
 
-Over the past thirty years, the number of wildfires in the United States have decreased, yet the annual average of burned acreage has more than doubled. "Since 2000, an annual average of 70,600 wildfires has burned an annual average of 7.0 million acres. This figure is more than double the average annual acreage burned in the 1990s (3.3 million acres), although a greater number of fires occurred  annually in the 1990s (78,600 average).[[1]](#1)" 
+Over the past thirty years, the number of wildfires in the United States have decreased, yet the annual average of burned acreage has more than doubled. 
+"Since 2000, an annual average of 70,600 wildfires has burned an annual average of 7.0 million acres. This figure is more than double the average annual acreage burned in the 1990s (3.3 million acres), although a greater number of fires occurred  annually in the 1990s (78,600 average).[[1]](#1)" 
+    
 <!-- <img src="./acres_burned.png" width="300" height="300"> -->
 This spike in fire intensity has caused some of the most costly and destructive fires in United States history. As it stands today, nine of the ten most costly fires (evaluated by loss in millions) in the United States have occurred since 2007.
 
@@ -36,6 +38,8 @@ The images used in this project were from the [High Performance Wireless Researc
 In order to maximize the training data for the models I built, my initial step was to augment the existing images. Image augmentation is used to enhance the size and quality of training datasets for the purpose of creating more accurate Deep Learning models. Image augmentation algorithms vary in how the types of augmentation or transformations take place. Some of the methods that I emplored were: executing a random zoom to magnify the image, slanting an image by fixing one axis and stretching the image at a certain angle, rotating the image, and a few more.
 
 Once my data had been transformed properly, I then built the architecture for my convulational neural network. The model incorporates three convolutional and maxpooling layers,  followed by two fully connected (dense) layers, a dropout layer (to assist with potential overfitting), and finally a non-linear layer. As convolutional networks operate linearly, this final layer introduces non-linearity to the activation map. As this model is a binary classification, in that the intent of this model is to determine whether or not smoke is present within an image, I used the sigmoid activation function which calculates the probabilities between 0 and 1.
+
+The following image outlines the architecture of a model similar to the one I generated:
 
 <!-- <img src="./cnn_architecture.jpeg" width="100" height="100"> -->
 
