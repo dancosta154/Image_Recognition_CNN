@@ -37,8 +37,6 @@ In order to maximize the training data for the models I built, my initial step w
 
 Once my data had been transformed properly, I then built the architecture for my convulational neural network. The model incorporates three convolutional and maxpooling layers,  followed by two fully connected (dense) layers, a dropout layer (to assist with potential overfitting), and finally a non-linear layer. As convolutional networks operate linearly, this final layer introduces non-linearity to the activation map. As this model is a binary classification, in that the intent of this model is to determine whether or not smoke is present within an image, I used the sigmoid activation function which calculates the probabilities between 0 and 1.
 
-The following image outlines the architecture of a model similar to the one I generated:
-
 <!-- <img src="./cnn_architecture.jpeg" width="100" height="100"> -->
 
 ### Model Performance
