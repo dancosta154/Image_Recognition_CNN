@@ -1,6 +1,11 @@
-year,in_2021_dollars
-2020,8010
-2018,15270
-2017,15330
-2007,2080
-1991,3350
+Rank,Year,Name,Dollars (Year Occurred),Dollars (2021),State
+1,2018,Camp Fire,10000,10750,CA
+2,2017,Tubbs Fire,8700,9560,CA
+3,2018,Woolsey Fire,4200,4520,CA
+4,1991,Oakland Fire (Tunnel),1700,3350,CA
+5,2017,Atlas Fire,3000,3300,CA
+6,2020,Glass Fire,2950,3070,CA
+7,2020,CZU Lightning Complex Fire,2500,2600,CA
+8,2017,Thomas Fire,2250,2470,CA
+9,2020,LNU Lightning Complex Fire,2250,2340,CA
+10,2007,Witch Fire,1600,2080,CA
