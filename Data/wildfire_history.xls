@@ -1,0 +1,2300 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "https://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:og="https://ogp.me/ns#"
+  xmlns:article="https://ogp.me/ns/article#"
+  xmlns:book="https://ogp.me/ns/book#"
+  xmlns:profile="https://ogp.me/ns/profile#"
+  xmlns:video="https://ogp.me/ns/video#"
+  xmlns:product="https://ogp.me/ns/product#"
+  xmlns:content="https://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="https://purl.org/dc/terms/"
+  xmlns:foaf="https://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="https://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="https://rdfs.org/sioc/ns#"
+  xmlns:sioct="https://rdfs.org/sioc/types#"
+  xmlns:skos="https://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="https://www.w3.org/2001/XMLSchema#">
+<head profile="https://www.w3.org/1999/xhtml/vocab">
+  <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<![endif]--><meta charset="utf-8" />
+<script src="https://www.google.com/recaptcha/api.js?hl=en" async="async" defer="defer"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="canonical" href="https://www.iii.org/table-archive/23284" />
+<link rel="shortlink" href="https://www.iii.org/table-archive/23284" />
+<meta property="fb:app_id" content="158171930694" />
+<meta property="og:site_name" content="III" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.iii.org/table-archive/23284" />
+<meta property="og:title" content="Archived Tables" />
+<meta property="og:image" content="https://www.iii.org/sites/default/files/images/insurance-information-institute-logo-share-sm.jpg" />
+
+  <title>Archived Tables | III</title>	
+  <style type="text/css" media="all">
+@import url("https://www.iii.org/modules/system/system.base.css?r7271p");
+@import url("https://www.iii.org/modules/system/system.menus.css?r7271p");
+@import url("https://www.iii.org/modules/system/system.messages.css?r7271p");
+@import url("https://www.iii.org/modules/system/system.theme.css?r7271p");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.iii.org/sites/all/modules/date/date_api/date.css?r7271p");
+@import url("https://www.iii.org/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?r7271p");
+@import url("https://www.iii.org/modules/field/theme/field.css?r7271p");
+@import url("https://www.iii.org/sites/all/modules/logintoboggan/logintoboggan.css?r7271p");
+@import url("https://www.iii.org/modules/node/node.css?r7271p");
+@import url("https://www.iii.org/sites/all/modules/nylon_content_snapshot/nylon_content_snapshot.css?r7271p");
+@import url("https://www.iii.org/sites/all/modules/nylon_highlight_box/nylon_highlight_box.css?r7271p");
+@import url("https://www.iii.org/sites/all/modules/panels_mini_ipe/panels-mini-ipe.css?r7271p");
+@import url("https://www.iii.org/modules/search/search.css?r7271p");
+@import url("https://www.iii.org/modules/user/user.css?r7271p");
+@import url("https://www.iii.org/sites/all/modules/views/css/views.css?r7271p");
+@import url("https://www.iii.org/sites/all/modules/media/modules/media_wysiwyg/css/media_wysiwyg.base.css?r7271p");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.iii.org/sites/all/modules/nylon_reusable_content/plugins/nylon_reusable_content/nylon_reusable_content.css?r7271p");
+@import url("https://www.iii.org/sites/all/modules/colorbox/styles/default/colorbox_style.css?r7271p");
+@import url("https://www.iii.org/sites/all/modules/ctools/css/ctools.css?r7271p");
+@import url("https://www.iii.org/sites/all/modules/dhtml_menu/dhtml_menu.css?r7271p");
+@import url("https://www.iii.org/sites/all/modules/panels/css/panels.css?r7271p");
+@import url("https://www.iii.org/sites/all/libraries/tablesorter/themes/blue/style.css?r7271p");
+@import url("https://www.iii.org/sites/all/modules/views_slideshow/views_slideshow.css?r7271p");
+@import url("https://www.iii.org/sites/all/modules/wysiwyg_linebreaks/wysiwyg_linebreaks.css?r7271p");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.iii.org/sites/all/themes/iii_responsive/css/styles.css?r7271p");
+@import url("https://www.iii.org/sites/all/themes/iii_responsive/js/jquery-ui-1.12.1.custom/jquery-ui.css?r7271p");
+</style>
+  <script type="text/javascript" src="https://www.iii.org/sites/all/modules/jquery_update/replace/jquery/1.12/jquery.min.js?v=1.12.4"></script>
+<script type="text/javascript" src="https://www.iii.org/misc/jquery-extend-3.4.0.js?v=1.12.4"></script>
+<script type="text/javascript" src="https://www.iii.org/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.12.4"></script>
+<script type="text/javascript" src="https://www.iii.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.iii.org/misc/drupal.js?r7271p"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"iii_responsive","theme_token":"L5BOlSIqdOFXImPMA3oxnOHoClWuU31blL0UM2M0CmQ","js":{"sites\/all\/modules\/highlight\/js\/highlight.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/nylon_reusable_content\/nylon_reusable_content.js":1,"sites\/all\/modules\/nylon_content_snapshot\/nylon_content_snapshot.js":1,"sites\/all\/modules\/nylon_editor_styles\/nylon_editor_styles.js":1,"sites\/all\/modules\/nylon_form_overrides\/nylon_form_overrides.js":1,"sites\/all\/modules\/nylon_members_news\/nylon_members_news.js":1,"sites\/all\/modules\/nylon_site_search\/nylon_site_search.js":1,"sites\/all\/modules\/tablesorter\/tablesortervar.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/dhtml_menu\/dhtml_menu.js":1,"sites\/all\/modules\/iframe\/iframe.js":1,"sites\/all\/libraries\/tablesorter\/jquery.tablesorter.min.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/captcha\/captcha.js":1,"sites\/all\/modules\/highlight\/js\/jquery.highlight.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"1":1,"https:\/\/s7.addthis.com\/js\/300\/addthis_widget.js#pubid=iiiadministrator":1,"sites\/all\/themes\/iii_responsive\/js\/jquery-ui-1.12.1.custom\/jquery-ui.js":1,"sites\/all\/themes\/iii_responsive\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/nylon_content_snapshot\/nylon_content_snapshot.css":1,"sites\/all\/modules\/nylon_highlight_box\/nylon_highlight_box.css":1,"sites\/all\/modules\/panels_mini_ipe\/panels-mini-ipe.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/nylon_reusable_content\/plugins\/nylon_reusable_content\/nylon_reusable_content.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/dhtml_menu\/dhtml_menu.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/libraries\/tablesorter\/themes\/blue\/style.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/wysiwyg_linebreaks\/wysiwyg_linebreaks.css":1,"sites\/all\/themes\/iii_responsive\/css\/styles.css":1,"sites\/all\/themes\/iii_responsive\/js\/jquery-ui-1.12.1.custom\/jquery-ui.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"dhtmlMenu":{"nav":"none","animation":{"effects":{"height":"height","opacity":"opacity","width":0},"speed":"500"},"effects":{"siblings":"none","children":"close-children","remember":"0"},"filter":{"type":"blacklist","list":{"main-menu":"main-menu","management":"management","menu-footer":"menu-footer","menu-lower-footer-links":"menu-lower-footer-links","navigation":"navigation","shortcut-set-1":"shortcut-set-1","user-menu":"user-menu","menu-connect":0,"menu-insurance-topics":0,"menu-members":0,"menu-press-room":0,"menu-publications":0,"menu-services":0}}},"better_exposed_filters":{"views":{"table_graph_archive":{"displays":{"attachment_1":{"filters":[]},"page":{"filters":[]}}},"topics_areas":{"displays":{"block":{"filters":[]},"block_1":{"filters":[]}}}}},"urlIsAjaxTrusted":{"\/table-archive\/23284":true},"highlight":{"area":"body","color":"yellow","textColor":"black","wordsonly":true,"patterns":"^.+[\u0026?]body_value=([^\u0026]+).*$","referrerPatterns":"^http:\/\/www\\.google\\.com.+[\u0026?]q=([^\u0026]+).*$\r\n^http:\/\/www\\.google\\.co\\.uk.+[\u0026?]q=([^\u0026]+).*$\r\n^http:\/\/search\\.yahoo\\.com.+[\u0026?]p=([^\u0026]+).*$\r\n^http:\/\/search\\.yahoo\\.co\\.uk.+[\u0026?]p=([^\u0026]+).*$\r\n^http:\/\/www\\.bing\\.com.+[\u0026?]q=([^\u0026]+).*$","stopwords":"a,about,above,above,across,after,afterwards,again,against,all,almost,alone,along,already,also,although,always,am,among,amongst,amoungst,amount,an,and,another,any,anyhow,anyone,anything,anyway,anywhere,are,around,as,at,back,be,became,because,become,becomes,becoming,been,before,beforehand,behind,being,below,beside,besides,between,beyond,bill,both,bottom,but,by,call,can,cannot,cant,co,con,could,couldnt,cry,de,describe,detail,do,done,down,due,during,each,eg,eight,either,eleven,else,elsewhere,empty,enough,etc,even,ever,every,everyone,everything,everywhere,except,few,fifteen,fify,fill,find,fire,first,five,for,former,formerly,forty,found,four,from,front,full,further,get,give,go,had,has,hasnt,have,he,hence,her,here,hereafter,hereby,herein,hereupon,hers,herself,him,himself,his,how,however,hundred,ie,if,in,inc,indeed,interest,into,is,it,its,itself,keep,last,latter,latterly,least,less,ltd,made,many,may,me,meanwhile,might,mill,mine,more,moreover,most,mostly,move,much,must,my,myself,name,namely,neither,never,nevertheless,next,nine,no,nobody,none,noone,nor,not,nothing,now,nowhere,of,off,often,on,once,one,only,onto,or,other,others,otherwise,our,ours,ourselves,out,over,own,part,per,perhaps,please,put,rather,re,same,see,seem,seemed,seeming,seems,serious,several,she,should,show,side,since,sincere,six,sixty,so,some,somehow,someone,something,sometime,sometimes,somewhere,still,such,system,take,ten,than,that,the,their,them,themselves,then,thence,there,thereafter,thereby,therefore,therein,thereupon,these,they,thickv,thin,third,this,those,though,three,through,throughout,thru,thus,to,together,too,top,toward,towards,twelve,twenty,two,un,under,until,up,upon,us,very,via,was,we,well,were,what,whatever,when,whence,whenever,where,whereafter,whereas,whereby,wherein,whereupon,wherever,whether,which,while,whither,who,whoever,whole,whom,whose,why,will,with,within,without,would,yet,you,your,yours,yourself,yourselves,the"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1}});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.iii.org/sites/all/modules/nylon_reusable_content/nylon_reusable_content.js?r7271p"></script>
+<script type="text/javascript" src="https://www.iii.org/sites/all/modules/nylon_content_snapshot/nylon_content_snapshot.js?r7271p"></script>
+<script type="text/javascript" src="https://www.iii.org/sites/all/modules/nylon_editor_styles/nylon_editor_styles.js?r7271p"></script>
+<script type="text/javascript" src="https://www.iii.org/sites/all/modules/nylon_form_overrides/nylon_form_overrides.js?r7271p"></script>
+<script type="text/javascript" src="https://www.iii.org/sites/all/modules/nylon_members_news/nylon_members_news.js?r7271p"></script>
+<script type="text/javascript" src="https://www.iii.org/sites/all/modules/nylon_site_search/nylon_site_search.js?r7271p"></script>
+<script type="text/javascript" src="https://www.iii.org/sites/all/modules/tablesorter/tablesortervar.js?r7271p"></script>
+<script type="text/javascript" src="https://www.iii.org/sites/all/libraries/colorbox/jquery.colorbox-min.js?r7271p"></script>
+<script type="text/javascript" src="https://www.iii.org/sites/all/modules/colorbox/js/colorbox.js?r7271p"></script>
+<script type="text/javascript" src="https://www.iii.org/sites/all/modules/colorbox/styles/default/colorbox_style.js?r7271p"></script>
+<script type="text/javascript" src="https://www.iii.org/sites/all/modules/dhtml_menu/dhtml_menu.js?r7271p"></script>
+<script type="text/javascript" src="https://www.iii.org/sites/all/modules/iframe/iframe.js?r7271p"></script>
+<script type="text/javascript" src="https://www.iii.org/sites/all/libraries/tablesorter/jquery.tablesorter.min.js?r7271p"></script>
+<script type="text/javascript" src="https://www.iii.org/sites/all/modules/views_slideshow/js/views_slideshow.js?r7271p"></script>
+<script type="text/javascript" src="https://www.iii.org/sites/all/modules/captcha/captcha.js?r7271p"></script>
+<script type="text/javascript" src="https://www.iii.org/sites/all/modules/highlight/js/jquery.highlight.js?r7271p"></script>
+<script type="text/javascript" src="https://www.iii.org/sites/all/modules/google_analytics/googleanalytics.js?r7271p"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-542962-2", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var addthis_config = {"data_track_addressbar":false};
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=iiiadministrator"></script>
+<script type="text/javascript" src="https://www.iii.org/sites/all/themes/iii_responsive/js/jquery-ui-1.12.1.custom/jquery-ui.js?r7271p"></script>
+<script type="text/javascript" src="https://www.iii.org/sites/all/themes/iii_responsive/js/scripts.js?r7271p"></script>
+  	    <!-- TypeKit --> 
+    <script>
+      (function(d) {
+        var config = {
+          kitId: 'uvh3wjn',
+          scriptTimeout: 100,
+          async: true
+        },
+        h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+      })(document);
+    </script> 
+    <!-- ------ -->
+	
+<!-- Start Lytics Tracking Tag Version 3 -->
+<script type="text/javascript">
+!function(){"use strict";var o=window.jstag||(window.jstag={}),r=[];function n(e){o[e]=function(){for(var n=arguments.length,t=new Array(n),i=0;i<n;i++)t[i]=arguments[i];r.push([e,t])}}n("send"),n("mock"),n("identify"),n("pageView"),n("unblock"),n("getid"),n("setid"),n("loadEntity"),n("getEntity"),n("on"),n("once"),n("call"),o.loadScript=function(n,t,i){var e=document.createElement("script");e.async=!0,e.src=n,e.onload=t,e.onerror=i;var o=document.getElementsByTagName("script")[0],r=o&&o.parentNode||document.head||document.body,c=o||r.lastChild;return null!=c?r.insertBefore(e,c):r.appendChild(e),this},o.init=function n(t){return this.config=t,this.loadScript(t.src,function(){if(o.init===n)throw new Error("Load error!");o.init(o.config),function(){for(var n=0;n<r.length;n++){var t=r[n][0],i=r[n][1];o[t].apply(o,i)}r=void 0}()}),this}}();
+// Define config and initialize Lytics tracking tag.
+jstag.init({
+  src: '//c.lytics.io/api/tag/0801a8daa9bf116c65124bfe91b62253/latest.min.js',
+  loadid: true
+});
+</script>
+<!-- Start Leverage Lab Tag -->
+<script src="https://s3-us-west-2.amazonaws.com/s.leveragelab.com/release/config/sites/thi/default/installer.js"></script>
+
+<!-- start ll tags -->
+<meta name="facebook-domain-verification" content="hejd5gdz6dtihttuywytd6g8mnpiqf" />
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1901503213409689');
+fbq('track', 'PageView');
+</script>
+<noscript>
+<img height="1" width="1" src="https://www.facebook.com/tr?id=1901503213409689&ev=PageView&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+<!-- end ll tags -->
+
+
+</head>
+<body class="html not-front not-logged-in no-sidebars page-table-archive page-table-archive- page-table-archive-23284 i18n-en" >
+        <div id="block-nylon-common-functions-responsive-header" class="block block-nylon-common-functions">
+
+    
+  <div class="content">
+    
+			<!-- ---------------------------------------------------------
+				2017.4.19, Ye Wang
+				Global top nav
+			---------------------------------------------------------- -->
+			<header id="nav"> 
+				<div id="navigation" clear="clearfix">
+					<a href="javascript:void(0);" title="Expand" id="menuBtn"></a>
+					<a href="/" id="logo" title="Home"></a>
+					<div id="breadcrumb">
+					</div>
+					<div id="userBox"> 
+						<a href="/user" id="btnSignin">Sign In</a></div>  
+					<div id="searchBox"> 
+						<div><label>Search iii.org</label></div>
+					</div>
+				</div>
+				
+				<!-- Top Menu Layer -->
+				<div class="menu-panel" id="menu-panel-main"> 
+					<div class="menu sGrid">
+						<h5 class="menu">Main</h5>  
+						<div class="grid three-column"><h3><a href="/insurance-basics">Insurance: The Basics</a></h3><ul class="menu"><li><a href="/insurance-basics/about-the-industry">About the Industry</a></li><li><a href="/insurance-basics/auto-insurance">Auto Insurance</a></li><li><a href="/insurance-basics/homeowners-renters-insurance">Homeowners + Renters Insurance</a></li><li><a href="/insurance-basics/life-insurance">Life Insurance</a></li><li><a href="/insurance-basics/financial-planning">Financial Planning</a></li><li><a href="/insurance-basics/business-insurance">Business Insurance</a></li><li><a href="/insurance-basics/disasters-preparedness">Disasters + Preparedness</a></li><li><a href="/insurance-basics/thought-leadership">Thought Leadership</a></li><li><a href="/insurance-basics/other-insurance-topics">Other Insurance Topics</a></li></ul></div><div class="grid three-column"><h3><a href="/research-data">Research + Data</a></h3><ul class="menu"><li><a href="/research-data/auto">Auto</a></li><li><a href="/research-data/catastrophes">Catastrophes</a></li><li><a href="/research-data/commercial">Commercial</a></li><li><a href="/research-data/crime-fraud">Crime + Fraud</a></li><li><a href="/research-data/homeowners">Homeowners</a></li><li><a href="/research-data/insurance-industry">Insurance Industry</a></li><li><a href="/research-data/life-health">Life + Health</a></li><li><a href="/research-data/technology">Technology</a></li></ul></div><div class="grid three-column"><h3><a href="/resource-center">Resource Center</a></h3><ul class="menu"><li><a href="https://resilience.iii.org">Resilience Accelerator</a></li><li><a href="/resource-center/apps">Apps</a></li><li><a href="/resource-center/event-calendar">Event Calendar</a></li><li><a href="/resource-center/iii-glossary">I.I.I. Glossary</a></li><li><a href="/resource-center/iii-store">I.I.I. Store</a></li><li><a href="/resource-center/newsroom">Newsroom</a></li><li><a href="/resource-center/presentations">Presentations</a></li><li><a href="/resource-center/publications">Publications</a></li><li><a href="/resource-center/the-iii-insurance-blog">The I.I.I. Insurance Blog</a></li><li><a href="/resource-center/video-library">Video Library</a></li></ul></div>
+					</div>
+					<div class="menu secondary s4"> 
+						<h5 class="menu">MEMBERSHIP</h5>
+						<ul class="menu" style="margin-bottom:15px">
+							
+		<li><a href="https://iiimembership.org/" target="_blank">Learn More About Membership</a></li>
+		<li><a href="/user/register">Register for a Member Account</a></li>
+		
+						</ul> 
+			
+                                                <h5 class="menu">AMPLIFY</h5>
+                                                <ul class="menu" style="margin-bottom:15px;">
+                                                        <li><a href="/amplify">Learn More About Amplify</a></li>
+                                                </ul>
+
+
+						<h5 class="menu">EN ESPA&Ntilde;OL</h5>	 
+						<ul class="menu"  style="margin-bottom:15px;">
+							
+	<li><a href="/insurance-basics/conceptos-basicos-seguros">Conceptos B&aacute;sicos de Seguros</a></li>
+	
+						</ul> 
+			
+						<h5 class="menu"  style="margin-bottom:5px;">Connect With Us</h5>
+						<div class="menu-smedia clearfix" style="margin-bottom:0;">
+							<ul class="menu" style="margin-bottom:0;"> 
+								
+		<li class="smedia_fb"><a href="https://www.facebook.com/iiiorg/" target="_blank"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 117.6685 226.584"><path id="f" class="cls-1" d="M76.3765,226.584V123.2285h34.6929l5.1938-40.2798H76.3765V57.2319c0-11.6621,3.2383-19.6094,19.9624-19.6094l21.3296-.0097V1.5869A285.42388,285.42388,0,0,0,86.5874,0C55.835,0,34.7813,18.771,34.7813,53.2436V82.9487H0v40.2798H34.7813V226.584Z"/></svg></a></li>
+		<li class="smedia_tw"><a href="https://twitter.com/iiiorg" target="_blank"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 273.38959 222.1782"><path class="cls-1" d="M273.38959,26.3008a112.124,112.124,0,0,1-32.2148,8.832,56.25181,56.25181,0,0,0,24.6621-31.0313,112.29873,112.29873,0,0,1-35.6172,13.6114,56.142,56.142,0,0,0-95.5791,51.1572A159.23574,159.23574,0,0,1,19.0322,10.2666,56.15109,56.15109,0,0,0,36.3906,85.1504a55.861,55.861,0,0,1-25.40529-7.0157c-.00391.2344-.00481.4688-.00481.7051a56.12288,56.12288,0,0,0,44.9931,54.9986,56.23,56.23,0,0,1-25.3301.9609,56.14724,56.14724,0,0,0,52.3956,38.9531,112.54222,112.54222,0,0,1-69.6592,24.0098A114.17451,114.17451,0,0,1,0,196.979a158.75988,158.75988,0,0,0,85.9795,25.1992c103.1689,0,159.5849-85.4668,159.5849-159.5864q0-3.64755-.16208-7.2559A113.99219,113.99219,0,0,0,273.38959,26.3008Z"/></svg></a></li>
+		<li class="smedia_youtube"><a href="https://www.youtube.com/user/iiivideo" target="_blank"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 20 14.06678"><g id="Lozenge"><path class="cls-1" d="M19.80029,3.03467a4.32693,4.32693,0,0,0-.7951-1.98517A2.8605,2.8605,0,0,0,17.00128.20233C14.20257,0,10.00433,0,10.00433,0H9.99567s-4.19812,0-6.997.20233A2.861,2.861,0,0,0,.99481,1.0495,4.32517,4.32517,0,0,0,.2,3.03467,30.24514,30.24514,0,0,0,0,6.27155V7.78888a30.24694,30.24694,0,0,0,.2,3.23694A4.32517,4.32517,0,0,0,.9948,13.011a3.39138,3.39138,0,0,0,2.20526.85486c1.6.15344,6.79993.20093,6.79993.20093s4.20258-.00635,7.00128-.20862a2.8605,2.8605,0,0,0,2.00391-.84717,4.32693,4.32693,0,0,0,.7951-1.98517A30.29228,30.29228,0,0,0,20,7.78888V6.27155A30.29065,30.29065,0,0,0,19.80029,3.03467ZM7.93524,9.62767,7.93433,4.00812l5.40411,2.81952Z"/></g></svg></a></li>
+		<!-- li class="smedia_pinterest"><a href="https://www.pinterest.com/iiiorg/" target="_blank"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 16.12049 20"><path class="cls-1" d="M3.46056,19.69448A12.09982,12.09982,0,0,1,3.50442,16.074c.22928-.985,1.48-6.27375,1.48-6.27375a4.55656,4.55656,0,0,1-.37757-1.87387c0-1.755,1.01721-3.06523,2.28377-3.06523A1.58562,1.58562,0,0,1,8.48762,6.639a25.42349,25.42349,0,0,1-1.04536,4.20237,1.83253,1.83253,0,0,0,1.869,2.28073c2.24331,0,3.96763-2.36536,3.96763-5.77973A4.9824,4.9824,0,0,0,8.46015,2.20153q-.22664-.00733-.45325.006a5.46319,5.46319,0,0,0-5.694,5.22214q-.00551.12754-.00506.25524a4.90979,4.90979,0,0,0,.93928,2.88035.37743.37743,0,0,1,.08756.362c-.09584.3987-.30876,1.256-.35056,1.43138-.05508.23106-.18294.28-.42207.16881C.98554,11.79362,0,9.489,0,7.63781,0,3.65634,2.89279,0,8.33949,0c4.37835,0,7.781,3.11992,7.781,7.28954,0,4.34984-2.74271,7.85056-6.54951,7.85056a3.378,3.378,0,0,1-2.89282-1.44927s-.63284,2.40984-.78628,3.00036A14.1084,14.1084,0,0,1,4.32315,20Z"/></svg></a></li -->
+		<li class="smedia_linkedin"><a href="https://www.linkedin.com/company/insurance-information-institute" target="_blank"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 25.76364 25.71977"><path class="cls-1" d="M.42382,8.54057H5.76854v17.1792H.42382ZM3.09765,0A3.09569,3.09569,0,1,1,0,3.09473,3.09618,3.09618,0,0,1,3.09765,0"/><path class="cls-1" d="M9.11914,8.54057h5.1182v2.3471h.0732a5.608,5.608,0,0,1,5.0518-2.7749c5.4023,0,6.4013,3.5572,6.4013,8.1841v9.4229h-5.334v-8.3536c0-1.9921-.039-4.5556-2.7753-4.5556-2.7784,0-3.2022,2.1699-3.2022,4.4111v8.4981h-5.333Z"/></svg></a></li>
+		<!-- li class="smedia_gplus"><a href="https://plus.google.com/+IiiOrg" target="_blank"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 22 14"><path class="cls-1" d="M22,6H20V4H18V6H16V8h2v2h2V8h2ZM7,6V8.4h3.97A3.7802,3.7802,0,0,1,7,11.42,4.42074,4.42074,0,0,1,7,2.58,3.93932,3.93932,0,0,1,9.79,3.66l1.9-1.83A6.71,6.71,0,0,0,7,0,7,7,0,0,0,7,14a6.45683,6.45683,0,0,0,6.72-6.84A6.439,6.439,0,0,0,13.61,6Z"/></svg></a></li -->
+	
+							</ul>
+						</div>
+					</div> 
+				</div>		
+				<!-- END OF TOP MENU LAYER -->
+				<!-- Search stats -->
+				<div class="menu-panel" id="menu-panel-search"> 
+					<form id="search" action="/search/node" class="clearfix">
+						<a class="btnClose"></a>
+						<input type="text" id="keyword" name="keys" maxlength="128" placeholder="Type to Search iii.org" value="" /> 
+					</form>
+					<div id="menu-search" class="clearfix">
+						<div class="row menu clearfix"> 
+							<div class="grid three-column">
+								<ul class="menu keyword">
+									<li class="label">Popular search terms</li>
+									<li><a href="/search/node/Automobile">Automobile</a></li>
+									<li><a href="/search/node/Home + Renters">Home + Renters</a></li>
+									<li><a href="/search/node/Claims">Claims</a></li>
+									<li><a href="/search/node/Fraud">Fraud</a></li>
+									<li><a href="/search/node/Hurricane">Hurricane</a></li>
+								</ul>  
+							</div>
+							<div class="grid three-column">
+								<ul class="menu">
+									<li class="label">Popular Topics</li>
+									<li><a href="/insurance-basics/auto-insurance/shopping-for-insurance">Automobile</a></li>
+									<li><a href="/insurance-basics/homeowners-renters-insurance/shopping-for-insurance-0">Home + Renters</a></li>
+									<li><a href="/insurance-basics/insurance-101/insurance-impact">The Basics</a></li>
+									<li><a href="/insurance-basics/disasters-preparedness/weather">Disaster + Preparation</a></li>
+									<li><a href="/insurance-basics/life-insurance/shopping-for-insurance-1">Life Insurance</a></li>
+								</ul> 
+							</div>
+							<div class="grid three-column">	
+								<h5 class="menu">Popular Media</h5>
+								<ul class="menu"> 
+									<li><a href="/resource-center/video-library">Video Library</a></li>
+									<li><a href="/research-data">Research + Data</a></li>
+									<li><a href="/resource-center/newsroom">Newsroom</a></li>
+								</ul>
+							</div> 
+						</div> 
+						<!--div class="row bottom clearfix">Not sure what you're looking for? <a href="" class="link">Try Our Guided Tour to get you started</a>.</div-->
+					</div>
+				</div>
+				<!-- END OF SEARCH STATS -->
+				<!-- ---------------------------------------------------------
+					2017.5.17, Ye Wang
+					User sign-in form:
+					- modal triggered by top nav;
+					- sign-in page;
+				---------------------------------------------------------- -->
+				<!-- Sign-in Modal --> 
+					<div id="menu-layer-signin" style="display: none;"> 
+						<div class="wrapper">
+							<div class="grid-wrapper"><form action="/table-archive/23284" method="post" id="user-login" accept-charset="UTF-8"><div>
+			<h2>Sign In</h2>
+			<p>Please sign in to access member exclusive content.</p>
+			<div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Email Address <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Email Address" type="text" id="edit-name" name="name" value="" size="60" maxlength="60" class="form-text required" />
+<div class="description">Enter your username (email)</div>
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Password" type="password" id="edit-pass" name="pass" size="60" maxlength="128" class="form-text required" />
+<div class="description">Enter your password.</div>
+</div>
+<input type="hidden" name="form_build_id" value="form-Nl0nNiwliUsPWPwcFJ1G7yPNwOj2v9sq9irnKWhtgPI" />
+<input type="hidden" name="form_id" value="user_login" />
+<div class="captcha"><input type="hidden" name="captcha_sid" value="107387352" />
+<input type="hidden" name="captcha_token" value="e6284af3fe1c1e22bd9e632161b9105a" />
+<input type="hidden" name="captcha_response" value="Google no captcha" />
+<div class="g-recaptcha" data-sitekey="6Le15xUTAAAAAMW5uUqyLBaG7DPHXIgzPVrf2UhF" data-theme="light" data-type="image"></div></div><div class="form-actions form-wrapper" id="edit-actions"><input class="btn form-submit" type="submit" id="edit-submit" name="op" value="Log in" /></div>
+			<p><a href="/user/password" class="link" target="_top">Forgot Password?</a></p>
+			<h3>Don't Have an Account?<br /><a href="/user/register" class="link" target="_top">Register Now</a></h3>
+			<p><a href="https://iiimembership.org/" class="link" target="_blank">Learn more about membership</a></p>
+			<hr />
+			<!--a href="javascript:alert('coming soon')"><img src="themes/iii-d6/images/global/btn_linkedin.png" /></a-->
+			</div></form>		
+							</div> 
+						</div>
+					</div>
+				<!-- END OF SIGN-IN MODAL -->
+				</header>  </div>
+</div>
+
+		<div id="messages">
+			
+		</div>
+		<!-- /#messages -->
+		    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div class="view view-table-graph-archive view-id-table_graph_archive view-display-id-page view-dom-id-1a6db17bb48421e32e87f6a59b309f22">
+        
+  
+      <div class="attachment attachment-before">
+      <div class="view view-table-graph-archive view-id-table_graph_archive view-display-id-attachment_1">
+            <div class="view-header">
+      <h2>Current Table</h2>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content">Wildfires By State, 2021</span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><a href="/table-archive/23284/file">Export To Excel</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p> </p>
+</div>  </div>  
+  <div class="views-field views-field-field-table">        <div class="field-content"><table><tr><td class="tablewrapper"><table class="tablesorter" style="border-collapse:collapse; width:392pt; border:medium none" width="523"><thead><tr style="height:14.4pt" height="19"><th style="white-space: nowrap; text-align: center;">State</th>
+<th style="white-space: nowrap; text-align: center;">Number of fires</th>
+<th style="white-space: nowrap; text-align: center;">Number of acres burned </th>
+</tr></thead><tbody><tr class="odd" style="height:14.4pt" height="19"><td>Alabama</td>
+<td style="text-align: right;">1,040</td>
+<td style="text-align: right;">22,055</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>Alaska</td>
+<td style="text-align: right;">384</td>
+<td style="text-align: right;">253,357</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td>Arizona</td>
+<td style="text-align: right;">1,773</td>
+<td style="text-align: right;">524,428</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>Arkansas</td>
+<td style="text-align: right;">378</td>
+<td style="text-align: right;">17,003</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td>California</td>
+<td style="text-align: right;">9,260</td>
+<td style="text-align: right;">2,233,666</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>Colorado</td>
+<td style="text-align: right;">1,017</td>
+<td style="text-align: right;">48,195</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td>Connecticut</td>
+<td style="text-align: right;">60</td>
+<td style="text-align: right;">127</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>Delaware</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td style="white-space: nowrap;">District of Columbia</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>Florida</td>
+<td style="text-align: right;">2,262</td>
+<td style="text-align: right;">105,475</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td>Georgia</td>
+<td style="text-align: right;">2,139</td>
+<td style="text-align: right;">11,108</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>Hawaii</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">40,000</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td>Idaho</td>
+<td style="text-align: right;">1,332</td>
+<td style="text-align: right;">439,600</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>Illinois</td>
+<td style="text-align: right;">29</td>
+<td style="text-align: right;">219</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td>Indiana</td>
+<td style="text-align: right;">34</td>
+<td style="text-align: right;">836</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>Iowa</td>
+<td style="text-align: right;">187</td>
+<td style="text-align: right;">7,950</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td>Kansas</td>
+<td style="text-align: right;">55</td>
+<td style="text-align: right;">163,982</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>Kentucky</td>
+<td style="text-align: right;">723</td>
+<td style="text-align: right;">22,859</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td>Louisiana</td>
+<td style="text-align: right;">507</td>
+<td style="text-align: right;">10,303</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>Maine</td>
+<td style="text-align: right;">636</td>
+<td style="text-align: right;">377</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td>Maryland</td>
+<td style="text-align: right;">112</td>
+<td style="text-align: right;">1,162</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>Massachusetts</td>
+<td style="text-align: right;">588</td>
+<td style="text-align: right;">1,439</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td>Michigan</td>
+<td style="text-align: right;">435</td>
+<td style="text-align: right;">9,289</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>Minnesota</td>
+<td style="text-align: right;">2,065</td>
+<td style="text-align: right;">69,405</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td>Mississippi</td>
+<td style="text-align: right;">922</td>
+<td style="text-align: right;">21,037</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>Missouri</td>
+<td style="text-align: right;">1,531</td>
+<td style="text-align: right;">40,262</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td>Montana</td>
+<td style="text-align: right;">2,573</td>
+<td style="text-align: right;">747,678</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>Nebraska</td>
+<td style="text-align: right;">785</td>
+<td style="text-align: right;">27,294</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td>Nevada</td>
+<td style="text-align: right;">565</td>
+<td style="text-align: right;">123,427</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>New Hampshire</td>
+<td style="text-align: right;">280</td>
+<td style="text-align: right;">96</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td>New Jersey</td>
+<td style="text-align: right;">906</td>
+<td style="text-align: right;">6,652</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>New Mexico</td>
+<td style="text-align: right;">672</td>
+<td style="text-align: right;">123,792</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td>New York</td>
+<td style="text-align: right;">137</td>
+<td style="text-align: right;">550</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>North Carolina</td>
+<td style="text-align: right;">5,151</td>
+<td style="text-align: right;">25,838</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td>North Dakota</td>
+<td style="text-align: right;">946</td>
+<td style="text-align: right;">49,347</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>Ohio</td>
+<td style="text-align: right;">524</td>
+<td style="text-align: right;">1,415</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td>Oklahoma</td>
+<td style="text-align: right;">1,727</td>
+<td style="text-align: right;">113,235</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>Oregon</td>
+<td style="text-align: right;">2,202</td>
+<td style="text-align: right;">828,777</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td>Pennsylvania</td>
+<td style="text-align: right;">1,350</td>
+<td style="text-align: right;">2,892</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>Puerto Rico</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td>Rhode Island</td>
+<td style="text-align: right;">99</td>
+<td style="text-align: right;">178</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>South Carolina</td>
+<td style="text-align: right;">630</td>
+<td style="text-align: right;">7,337</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td>South Dakota</td>
+<td style="text-align: right;">868</td>
+<td style="text-align: right;">43,620</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>Tennessee</td>
+<td style="text-align: right;">550</td>
+<td style="text-align: right;">4,937</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td>Texas</td>
+<td style="text-align: right;">5,576</td>
+<td style="text-align: right;">168,258</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>Utah</td>
+<td style="text-align: right;">1,085</td>
+<td style="text-align: right;">60,863</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td>Vermont</td>
+<td style="text-align: right;">90</td>
+<td style="text-align: right;">157</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>Virginia</td>
+<td style="text-align: right;">567</td>
+<td style="text-align: right;">6,696</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td>Washington</td>
+<td style="text-align: right;">1,863</td>
+<td style="text-align: right;">674,222</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>West Virginia</td>
+<td style="text-align: right;">752</td>
+<td style="text-align: right;">7,504</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td>Wisconsin</td>
+<td style="text-align: right;">1,040</td>
+<td style="text-align: right;">2,159</td>
+</tr><tr class="even" style="height:14.4pt" height="19"><td>Wyoming</td>
+<td style="text-align: right;">540</td>
+<td style="text-align: right;">53,496</td>
+</tr><tr class="odd" style="height:14.4pt" height="19"><td><strong>United States (1)</strong></td>
+<td style="text-align: right;"><strong>58,948</strong></td>
+<td style="text-align: right;"><strong>7,124,554</strong></td>
+</tr></tbody></table></td></tr></table><div class="tablewrapper-captions"><p>(1) Includes Puerto Rico. Totals for the United States do not match totals shown elsewhere by the National Interagency Fire Center due to the use of different exhibits.</p>
+<p>Source: National Interagency Fire Center.</p>
+</div><div class="tablewrapper-spacer">&nbsp;</div></div>  </div>  
+  <div class="views-field views-field-field-iframe-url">        <div class="field-content"></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <h2>Archived Tables</h2>
+    </div>
+  
+  
+</div>    </div>
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content">WILDFIRES BY STATE, 2010 (1)</span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><a href="/table-archive/22822/file">Export To Excel</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-table">        <div class="field-content"><table><tr><td class="tablewrapper"><table height="" width="" cellspacing="1" cellpadding="1" border="0" style="" class="tablesorter styledTable"><thead><tr height="" style="" width="" class="cust_header"><th class="cust_header">State</th>
+<th class="cust_header">Number of fires</th>
+<th class="cust_header">Number of acres burned</th>
+</tr></thead><tbody><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">Alaska</td>
+<td height="" width="" align="right" class="alt" style="">688</td>
+<td height="" width="" align="right" class="alt" style="">1,129,421</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">Alabama</td>
+<td height="" width="" align="right" class="cust_cell" style="">2,357</td>
+<td height="" width="" align="right" class="cust_cell" style="">26,331</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">Arkansas</td>
+<td height="" width="" align="right" class="alt" style="">2,010</td>
+<td height="" width="" align="right" class="alt" style="">30,954</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">Arizona</td>
+<td height="" width="" align="right" class="cust_cell" style="">1,517</td>
+<td height="" width="" align="right" class="cust_cell" style="">74,445</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">California</td>
+<td height="" width="" align="right" class="alt" style="">6,502</td>
+<td height="" width="" align="right" class="alt" style="">108,742</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">Colorado</td>
+<td height="" width="" align="right" class="cust_cell" style="">1,076</td>
+<td height="" width="" align="right" class="cust_cell" style="">40,788</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">Connecticut</td>
+<td height="" width="" align="right" class="alt" style="">93</td>
+<td height="" width="" align="right" class="alt" style="">262</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">Delaware</td>
+<td height="" width="" align="right" class="cust_cell" style="">12</td>
+<td height="" width="" align="right" class="cust_cell" style="">32</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">Florida</td>
+<td height="" width="" align="right" class="alt" style="">2,334</td>
+<td height="" width="" align="right" class="alt" style="">37,929</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">Georgia</td>
+<td height="" width="" align="right" class="cust_cell" style="">3,489</td>
+<td height="" width="" align="right" class="cust_cell" style="">14,534</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">Hawaii</td>
+<td height="" width="" align="right" class="alt" style="">9</td>
+<td height="" width="" align="right" class="alt" style="">10,172</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">Iowa</td>
+<td height="" width="" align="right" class="cust_cell" style="">123</td>
+<td height="" width="" align="right" class="cust_cell" style="">2,722</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">Idaho</td>
+<td height="" width="" align="right" class="alt" style="">977</td>
+<td height="" width="" align="right" class="alt" style="">613,868</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">Illinois</td>
+<td height="" width="" align="right" class="cust_cell" style="">95</td>
+<td height="" width="" align="right" class="cust_cell" style="">630</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">Indiana</td>
+<td height="" width="" align="right" class="alt" style="">57</td>
+<td height="" width="" align="right" class="alt" style="">132</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">Kansas</td>
+<td height="" width="" align="right" class="cust_cell" style="">35</td>
+<td height="" width="" align="right" class="cust_cell" style="">20,364</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">Kentucky</td>
+<td height="" width="" align="right" class="alt" style="">1,677</td>
+<td height="" width="" align="right" class="alt" style="">51,003</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">Louisiana</td>
+<td height="" width="" align="right" class="cust_cell" style="">2,166</td>
+<td height="" width="" align="right" class="cust_cell" style="">33,401</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">Massachusetts</td>
+<td height="" width="" align="right" class="alt" style="">2,014</td>
+<td height="" width="" align="right" class="alt" style="">2,117</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">Maryland</td>
+<td height="" width="" align="right" class="cust_cell" style="">160</td>
+<td height="" width="" align="right" class="cust_cell" style="">1,577</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">Maine</td>
+<td height="" width="" align="right" class="alt" style="">550</td>
+<td height="" width="" align="right" class="alt" style="">318</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">Michigan</td>
+<td height="" width="" align="right" class="cust_cell" style="">459</td>
+<td height="" width="" align="right" class="cust_cell" style="">11,441</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">Minnesota</td>
+<td height="" width="" align="right" class="alt" style="">2,037</td>
+<td height="" width="" align="right" class="alt" style="">33,969</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">Missouri</td>
+<td height="" width="" align="right" class="cust_cell" style="">1,314</td>
+<td height="" width="" align="right" class="cust_cell" style="">17,620</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">Mississippi</td>
+<td height="" width="" align="right" class="alt" style="">1,696</td>
+<td height="" width="" align="right" class="alt" style="">15,338</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">Montana</td>
+<td height="" width="" align="right" class="cust_cell" style="">1,035</td>
+<td height="" width="" align="right" class="cust_cell" style="">57,380</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">North Carolina</td>
+<td height="" width="" align="right" class="alt" style="">3,665</td>
+<td height="" width="" align="right" class="alt" style="">20,000</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">North Dakota</td>
+<td height="" width="" align="right" class="cust_cell" style="">448</td>
+<td height="" width="" align="right" class="cust_cell" style="">3,840</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">Nebraska</td>
+<td height="" width="" align="right" class="alt" style="">24</td>
+<td height="" width="" align="right" class="alt" style="">1,125</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">New Hampshire</td>
+<td height="" width="" align="right" class="cust_cell" style="">358</td>
+<td height="" width="" align="right" class="cust_cell" style="">145</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">New Jersey</td>
+<td height="" width="" align="right" class="alt" style="">2,011</td>
+<td height="" width="" align="right" class="alt" style="">10,630</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">New Mexico</td>
+<td height="" width="" align="right" class="cust_cell" style="">953</td>
+<td height="" width="" align="right" class="cust_cell" style="">231,403</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">Nevada</td>
+<td height="" width="" align="right" class="alt" style="">431</td>
+<td height="" width="" align="right" class="alt" style="">23,863</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">New York</td>
+<td height="" width="" align="right" class="cust_cell" style="">151</td>
+<td height="" width="" align="right" class="cust_cell" style="">2,066</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">Ohio</td>
+<td height="" width="" align="right" class="alt" style="">557</td>
+<td height="" width="" align="right" class="alt" style="">3,995</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">Oklahoma</td>
+<td height="" width="" align="right" class="cust_cell" style="">1,568</td>
+<td height="" width="" align="right" class="cust_cell" style="">81,238</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">Oregon</td>
+<td height="" width="" align="right" class="alt" style="">1,299</td>
+<td height="" width="" align="right" class="alt" style="">69,623</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">Pennsylvania</td>
+<td height="" width="" align="right" class="cust_cell" style="">506</td>
+<td height="" width="" align="right" class="cust_cell" style="">3,203</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">Rhode Island</td>
+<td height="" width="" align="right" class="alt" style="">30</td>
+<td height="" width="" align="right" class="alt" style="">23</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">South Carolina</td>
+<td height="" width="" align="right" class="cust_cell" style="">1,617</td>
+<td height="" width="" align="right" class="cust_cell" style="">6,592</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">South Dakota</td>
+<td height="" width="" align="right" class="alt" style="">732</td>
+<td height="" width="" align="right" class="alt" style="">6,175</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">Tennessee</td>
+<td height="" width="" align="right" class="cust_cell" style="">1,653</td>
+<td height="" width="" align="right" class="cust_cell" style="">20,283</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">Texas</td>
+<td height="" width="" align="right" class="alt" style="">6,691</td>
+<td height="" width="" align="right" class="alt" style="">203,891</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">Utah</td>
+<td height="" width="" align="right" class="cust_cell" style="">1,054</td>
+<td height="" width="" align="right" class="cust_cell" style="">65,236</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">Virginia</td>
+<td height="" width="" align="right" class="alt" style="">847</td>
+<td height="" width="" align="right" class="alt" style="">7,698</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">Vermont</td>
+<td height="" width="" align="right" class="cust_cell" style="">81</td>
+<td height="" width="" align="right" class="cust_cell" style="">86</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">Washington</td>
+<td height="" width="" align="right" class="alt" style="">888</td>
+<td height="" width="" align="right" class="alt" style="">41,151</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">Wisconsin</td>
+<td height="" width="" align="right" class="cust_cell" style="">1,278</td>
+<td height="" width="" align="right" class="cust_cell" style="">2,185</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">West Virginia</td>
+<td height="" width="" align="right" class="alt" style="">617</td>
+<td height="" width="" align="right" class="alt" style="">14,319</td>
+</tr><tr class="even cust_cell" height="" style="" width=""><td height="" width="" style="" class="cust_cell">Wyoming</td>
+<td height="" width="" align="right" class="cust_cell" style="">530</td>
+<td height="" width="" align="right" class="cust_cell" style="">79,201</td>
+</tr><tr class="odd alt" height="" style="" width=""><td height="" width="" style="" class="alt">United States</td>
+<td height="" width="" align="right" class="alt" style="">62,471</td>
+<td height="" width="" align="right" class="alt" style="">3,233,461</td>
+</tr></tbody></table></td></tr></table><div class="tablewrapper-captions"><p> (1) As of November 2010.</p>
+<p>Source: National Interagency Coordination Center.</p>
+</div><div class="tablewrapper-spacer">&nbsp;</div></div>  </div>  
+  <div class="views-field views-field-field-iframe-url">        <div class="field-content"></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content">WILDFIRES BY STATE, 2011</span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><a href="/table-archive/23799/file">Export To Excel</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-table">        <div class="field-content"><table><tr><td class="tablewrapper"><table width="" height="" cellspacing="1" cellpadding="1" border="1" style="" class="tablesorter styledTable"><thead><tr height="" class="cust_header" width="" style=""><th class="cust_header"> </th>
+<th class="cust_header">Number of fires</th>
+<th class="cust_header">Number of acres burned</th>
+</tr></thead><tbody><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Alaska</td>
+<td width="" height="" align="right" style="" class="alt">515</td>
+<td width="" height="" align="right" style="" class="alt">293,018</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Alabama</td>
+<td width="" height="" align="right" style="" class="cust_cell">3,073</td>
+<td width="" height="" align="right" style="" class="cust_cell">71,311</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Arkansas</td>
+<td width="" height="" align="right" style="" class="alt">2,627</td>
+<td width="" height="" align="right" style="" class="alt">54,032</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Arizona</td>
+<td width="" height="" align="right" style="" class="cust_cell">1,988</td>
+<td width="" height="" align="right" style="" class="cust_cell">1,016,428</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">California</td>
+<td width="" height="" align="right" style="" class="alt">7,989</td>
+<td width="" height="" align="right" style="" class="alt">126,854</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Colorado</td>
+<td width="" height="" align="right" style="" class="cust_cell">1,286</td>
+<td width="" height="" align="right" style="" class="cust_cell">161,167</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Connecticut</td>
+<td width="" height="" align="right" style="" class="alt">196</td>
+<td width="" height="" align="right" style="" class="alt">244</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Delaware</td>
+<td width="" height="" align="right" style="" class="cust_cell">(1)</td>
+<td width="" height="" align="right" style="" class="cust_cell">(1)</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Florida</td>
+<td width="" height="" align="right" style="" class="alt">5,102</td>
+<td width="" height="" align="right" style="" class="alt">299,991</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Georgia</td>
+<td width="" height="" align="right" style="" class="cust_cell">8,387</td>
+<td width="" height="" align="right" style="" class="cust_cell">149,222</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Hawaii</td>
+<td width="" height="" align="right" style="" class="alt">3</td>
+<td width="" height="" align="right" style="" class="alt">2,178</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Iowa</td>
+<td width="" height="" align="right" style="" class="cust_cell">561</td>
+<td width="" height="" align="right" style="" class="cust_cell">2,145</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Idaho</td>
+<td width="" height="" align="right" style="" class="alt">1,094</td>
+<td width="" height="" align="right" style="" class="alt">384,103</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Illinois</td>
+<td width="" height="" align="right" style="" class="cust_cell">62</td>
+<td width="" height="" align="right" style="" class="cust_cell">2,019</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Indiana</td>
+<td width="" height="" align="right" style="" class="alt">27</td>
+<td width="" height="" align="right" style="" class="alt">530</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Kansas</td>
+<td width="" height="" align="right" style="" class="cust_cell">99</td>
+<td width="" height="" align="right" style="" class="cust_cell">111,128</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Kentucky</td>
+<td width="" height="" align="right" style="" class="alt">1,040</td>
+<td width="" height="" align="right" style="" class="alt">24,961</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Louisiana</td>
+<td width="" height="" align="right" style="" class="cust_cell">3,079</td>
+<td width="" height="" align="right" style="" class="cust_cell">52,763</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Massachusetts</td>
+<td width="" height="" align="right" style="" class="alt">1,116</td>
+<td width="" height="" align="right" style="" class="alt">545</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Maryland</td>
+<td width="" height="" align="right" style="" class="cust_cell">131</td>
+<td width="" height="" align="right" style="" class="cust_cell">8,310</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Maine</td>
+<td width="" height="" align="right" style="" class="alt">308</td>
+<td width="" height="" align="right" style="" class="alt">116</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Michigan</td>
+<td width="" height="" align="right" style="" class="cust_cell">322</td>
+<td width="" height="" align="right" style="" class="cust_cell">1,865</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Minnesota</td>
+<td width="" height="" align="right" style="" class="alt">1,238</td>
+<td width="" height="" align="right" style="" class="alt">135,650</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Missouri</td>
+<td width="" height="" align="right" style="" class="cust_cell">2,732</td>
+<td width="" height="" align="right" style="" class="cust_cell">55,395</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Mississippi</td>
+<td width="" height="" align="right" style="" class="alt">2,341</td>
+<td width="" height="" align="right" style="" class="alt">42,036</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Montana</td>
+<td width="" height="" align="right" style="" class="cust_cell">1,335</td>
+<td width="" height="" align="right" style="" class="cust_cell">168,010</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">North Carolina</td>
+<td width="" height="" align="right" style="" class="alt">5,279</td>
+<td width="" height="" align="right" style="" class="alt">119,482</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">North Dakota</td>
+<td width="" height="" align="right" style="" class="cust_cell">353</td>
+<td width="" height="" align="right" style="" class="cust_cell">2,862</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Nebraska</td>
+<td width="" height="" align="right" style="" class="alt">80</td>
+<td width="" height="" align="right" style="" class="alt">29,643</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">New Hampshire</td>
+<td width="" height="" align="right" style="" class="cust_cell">139</td>
+<td width="" height="" align="right" style="" class="cust_cell">48</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">New Jersey</td>
+<td width="" height="" align="right" style="" class="alt">708</td>
+<td width="" height="" align="right" style="" class="alt">794</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">New Mexico</td>
+<td width="" height="" align="right" style="" class="cust_cell">1,875</td>
+<td width="" height="" align="right" style="" class="cust_cell">1,286,487</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Nevada</td>
+<td width="" height="" align="right" style="" class="alt">817</td>
+<td width="" height="" align="right" style="" class="alt">424,170</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">New York</td>
+<td width="" height="" align="right" style="" class="cust_cell">47</td>
+<td width="" height="" align="right" style="" class="cust_cell">232</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Ohio</td>
+<td width="" height="" align="right" style="" class="alt">246</td>
+<td width="" height="" align="right" style="" class="alt">1,203</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Oklahoma</td>
+<td width="" height="" align="right" style="" class="cust_cell">2,486</td>
+<td width="" height="" align="right" style="" class="cust_cell">293,381</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Oregon</td>
+<td width="" height="" align="right" style="" class="alt">1,151</td>
+<td width="" height="" align="right" style="" class="alt">285,712</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Pennsylvania</td>
+<td width="" height="" align="right" style="" class="cust_cell">204</td>
+<td width="" height="" align="right" style="" class="cust_cell">636</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Rhode Island</td>
+<td width="" height="" align="right" style="" class="alt">30</td>
+<td width="" height="" align="right" style="" class="alt">27</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">South Carolina</td>
+<td width="" height="" align="right" style="" class="cust_cell">2,703</td>
+<td width="" height="" align="right" style="" class="cust_cell">16,141</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">South Dakota</td>
+<td width="" height="" align="right" style="" class="alt">1,248</td>
+<td width="" height="" align="right" style="" class="alt">97,230</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Tennessee</td>
+<td width="" height="" align="right" style="" class="cust_cell">1,170</td>
+<td width="" height="" align="right" style="" class="cust_cell">13,812</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Texas</td>
+<td width="" height="" align="right" style="" class="alt">3,470</td>
+<td width="" height="" align="right" style="" class="alt">2,722,623</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Utah</td>
+<td width="" height="" align="right" style="" class="cust_cell">1,102</td>
+<td width="" height="" align="right" style="" class="cust_cell">62,783</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Virginia</td>
+<td width="" height="" align="right" style="" class="alt">831</td>
+<td width="" height="" align="right" style="" class="alt">20,114</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Vermont</td>
+<td width="" height="" align="right" style="" class="cust_cell">11</td>
+<td width="" height="" align="right" style="" class="cust_cell">14</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Washington</td>
+<td width="" height="" align="right" style="" class="alt">993</td>
+<td width="" height="" align="right" style="" class="alt">17,480</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Wisconsin</td>
+<td width="" height="" align="right" style="" class="cust_cell">735</td>
+<td width="" height="" align="right" style="" class="cust_cell">719</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">West Virginia</td>
+<td width="" height="" align="right" style="" class="alt">342</td>
+<td width="" height="" align="right" style="" class="alt">2,680</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Wyoming</td>
+<td width="" height="" align="right" style="" class="cust_cell">680</td>
+<td width="" height="" align="right" style="" class="cust_cell">135,878</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt"> </td>
+<td width="" height="" align="right" style="" class="alt"> </td>
+<td width="" height="" align="right" style="" class="alt"> </td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell"><strong>Total United States</strong></td>
+<td width="" height="" align="right" style="" class="cust_cell"><strong>74,126</strong></td>
+<td width="" height="" align="right" style="" class="cust_cell"><strong>8,711,367</strong></td>
+</tr></tbody></table></td></tr></table><div class="tablewrapper-captions"><p>(1) Delaware had no wildfires in 2011.</p>
+<p>Source: National Interagency Coordination Center.</p>
+</div><div class="tablewrapper-spacer">&nbsp;</div></div>  </div>  
+  <div class="views-field views-field-field-iframe-url">        <div class="field-content"></div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content">WILDFIRES BY STATE, 2013</span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><a href="/table-archive/211602/file">Export To Excel</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-table">        <div class="field-content"><table><tr><td class="tablewrapper"><table width="" height="" cellspacing="1" cellpadding="1" border="1" class="tablesorter styledTable" style=""><colgroup></colgroup><thead><tr height="" class="cust_header" width="" style=""><th class="cust_header">State</th>
+<th class="cust_header">Number of fires</th>
+<th class="cust_header">Number of acres burned </th>
+</tr></thead><tbody><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Alabama</td>
+<td width="" height="" align="right" style="" class="alt">1,284</td>
+<td width="" height="" align="right" style="" class="alt">25,623</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Alaska</td>
+<td width="" height="" align="right" style="" class="cust_cell">603</td>
+<td width="" height="" align="right" style="" class="cust_cell">1,316,876</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Arizona</td>
+<td width="" height="" align="right" style="" class="alt">1,756</td>
+<td width="" height="" align="right" style="" class="alt">105,281</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Arkansas</td>
+<td width="" height="" align="right" style="" class="cust_cell">881</td>
+<td width="" height="" align="right" style="" class="cust_cell">14,733</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">California</td>
+<td width="" height="" align="right" style="" class="alt">9,907</td>
+<td width="" height="" align="right" style="" class="alt">577,675</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Colorado</td>
+<td width="" height="" align="right" style="" class="cust_cell">1,176</td>
+<td width="" height="" align="right" style="" class="cust_cell">195,145</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Connecticut</td>
+<td width="" height="" align="right" style="" class="alt">76</td>
+<td width="" height="" align="right" style="" class="alt">238</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Delaware</td>
+<td width="" height="" align="right" style="" class="cust_cell">4</td>
+<td width="" height="" align="right" style="" class="cust_cell">17</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Florida</td>
+<td width="" height="" align="right" style="" class="alt">101</td>
+<td width="" height="" align="right" style="" class="alt">7,660</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Georgia</td>
+<td width="" height="" align="right" style="" class="cust_cell">2,942</td>
+<td width="" height="" align="right" style="" class="cust_cell">6,736</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Hawaii</td>
+<td width="" height="" align="right" style="" class="alt">(1)</td>
+<td width="" height="" align="right" style="" class="alt">(1)</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Idaho</td>
+<td width="" height="" align="right" style="" class="cust_cell">1,471</td>
+<td width="" height="" align="right" style="" class="cust_cell">722,204</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Illinois</td>
+<td width="" height="" align="right" style="" class="alt">24</td>
+<td width="" height="" align="right" style="" class="alt">55</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Indiana</td>
+<td width="" height="" align="right" style="" class="cust_cell">19</td>
+<td width="" height="" align="right" style="" class="cust_cell">806</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Iowa</td>
+<td width="" height="" align="right" style="" class="alt">436</td>
+<td width="" height="" align="right" style="" class="alt">14,704</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Kansas</td>
+<td width="" height="" align="right" style="" class="cust_cell">16</td>
+<td width="" height="" align="right" style="" class="cust_cell">7,137</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Kentucky</td>
+<td width="" height="" align="right" style="" class="alt">1,030</td>
+<td width="" height="" align="right" style="" class="alt">25,084</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Louisiana</td>
+<td width="" height="" align="right" style="" class="cust_cell">1,027</td>
+<td width="" height="" align="right" style="" class="cust_cell">17,883</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Maine</td>
+<td width="" height="" align="right" style="" class="alt">426</td>
+<td width="" height="" align="right" style="" class="alt">743</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Maryland</td>
+<td width="" height="" align="right" style="" class="cust_cell">126</td>
+<td width="" height="" align="right" style="" class="cust_cell">182</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Massachusetts</td>
+<td width="" height="" align="right" style="" class="alt">1,132</td>
+<td width="" height="" align="right" style="" class="alt">879</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Michigan</td>
+<td width="" height="" align="right" style="" class="cust_cell">436</td>
+<td width="" height="" align="right" style="" class="cust_cell">940</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Minnesota</td>
+<td width="" height="" align="right" style="" class="alt">1,115</td>
+<td width="" height="" align="right" style="" class="alt">22,107</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Mississippi</td>
+<td width="" height="" align="right" style="" class="cust_cell">5</td>
+<td width="" height="" align="right" style="" class="cust_cell">33</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Missouri</td>
+<td width="" height="" align="right" style="" class="alt">51</td>
+<td width="" height="" align="right" style="" class="alt">1,660</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Montana</td>
+<td width="" height="" align="right" style="" class="cust_cell">1,723</td>
+<td width="" height="" align="right" style="" class="cust_cell">124,209</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Nebraska</td>
+<td width="" height="" align="right" style="" class="alt">10</td>
+<td width="" height="" align="right" style="" class="alt">63</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Nevada</td>
+<td width="" height="" align="right" style="" class="cust_cell">763</td>
+<td width="" height="" align="right" style="" class="cust_cell">162,907</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">New Hampshire</td>
+<td width="" height="" align="right" style="" class="alt">85</td>
+<td width="" height="" align="right" style="" class="alt">137</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">New Jersey</td>
+<td width="" height="" align="right" style="" class="cust_cell">1,013</td>
+<td width="" height="" align="right" style="" class="cust_cell">1,430</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">New Mexico</td>
+<td width="" height="" align="right" style="" class="alt">1,064</td>
+<td width="" height="" align="right" style="" class="alt">221,951</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">New York</td>
+<td width="" height="" align="right" style="" class="cust_cell">138</td>
+<td width="" height="" align="right" style="" class="cust_cell">1,073</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">North Carolina</td>
+<td width="" height="" align="right" style="" class="alt">3,514</td>
+<td width="" height="" align="right" style="" class="alt">24,547</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">North Dakota</td>
+<td width="" height="" align="right" style="" class="cust_cell">515</td>
+<td width="" height="" align="right" style="" class="cust_cell">16,116</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Ohio</td>
+<td width="" height="" align="right" style="" class="alt">31</td>
+<td width="" height="" align="right" style="" class="alt">152</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Oklahoma</td>
+<td width="" height="" align="right" style="" class="cust_cell">610</td>
+<td width="" height="" align="right" style="" class="cust_cell">26,490</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Oregon</td>
+<td width="" height="" align="right" style="" class="alt">2,848</td>
+<td width="" height="" align="right" style="" class="alt">350,786</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Pennsylvania</td>
+<td width="" height="" align="right" style="" class="cust_cell">639</td>
+<td width="" height="" align="right" style="" class="cust_cell">1,788</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Rhode Island</td>
+<td width="" height="" align="right" style="" class="alt">7</td>
+<td width="" height="" align="right" style="" class="alt">27</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">South Carolina</td>
+<td width="" height="" align="right" style="" class="cust_cell">1,337</td>
+<td width="" height="" align="right" style="" class="cust_cell">7,082</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">South Dakota</td>
+<td width="" height="" align="right" style="" class="alt">889</td>
+<td width="" height="" align="right" style="" class="alt">4,475</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Tennessee</td>
+<td width="" height="" align="right" style="" class="cust_cell">424</td>
+<td width="" height="" align="right" style="" class="cust_cell">7,080</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Texas</td>
+<td width="" height="" align="right" style="" class="alt">70</td>
+<td width="" height="" align="right" style="" class="alt">10,743</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Utah</td>
+<td width="" height="" align="right" style="" class="cust_cell">1,276</td>
+<td width="" height="" align="right" style="" class="cust_cell">70,282</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Vermont</td>
+<td width="" height="" align="right" style="" class="alt">124</td>
+<td width="" height="" align="right" style="" class="alt">281</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Virginia</td>
+<td width="" height="" align="right" style="" class="cust_cell">482</td>
+<td width="" height="" align="right" style="" class="cust_cell">4,418</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Washington</td>
+<td width="" height="" align="right" style="" class="alt">1,527</td>
+<td width="" height="" align="right" style="" class="alt">152,603</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">West Virginia</td>
+<td width="" height="" align="right" style="" class="cust_cell">557</td>
+<td width="" height="" align="right" style="" class="cust_cell">8,577</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt">Wisconsin</td>
+<td width="" height="" align="right" style="" class="alt">671</td>
+<td width="" height="" align="right" style="" class="alt">9,196</td>
+</tr><tr class="even cust_cell" height="" width="" style=""><td width="" height="" style="" class="cust_cell">Wyoming</td>
+<td width="" height="" align="right" style="" class="cust_cell">468</td>
+<td width="" height="" align="right" style="" class="cust_cell">44,016</td>
+</tr><tr class="odd alt" height="" width="" style=""><td width="" height="" style="" class="alt"><strong>United States (2)</strong></td>
+<td width="" height="" align="right" style="" class="alt"><strong>47,579</strong></td>
+<td width="" height="" align="right" style="" class="alt"><strong>4,319,546</strong></td>
+</tr></tbody></table></td></tr></table><div class="tablewrapper-captions"><p>(1) Hawaii had no wildfires in 2013.<br />
+(2) Includes Puerto Rico which had 750 fires that burned 4,716 acres.</p>
+<p>Source: National Interagency Fire Center.</p>
+</div><div class="tablewrapper-spacer">&nbsp;</div></div>  </div>  
+  <div class="views-field views-field-field-iframe-url">        <div class="field-content"></div>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content">WILDFIRES BY STATE, 2014</span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><a href="/table-archive/214725/file">Export To Excel</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-table">        <div class="field-content"><table><tr><td class="tablewrapper"><table border="0" cellpadding="0" cellspacing="0" class="tablesorter" width="353"><colgroup><col /><col /><col /></colgroup><thead><tr height="20"><th height="20" style="height: 20px; width: 107px;">State</th>
+<th style="width: 97px;">Number of fires</th>
+<th style="width: 151px;">Number of acres burned</th>
+</tr></thead><tbody><tr class="odd" height="20"><td height="20" style="height:20px;">Alabama</td>
+<td style="text-align: right;">2,093</td>
+<td style="text-align: right;">40,527</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Alaska</td>
+<td style="text-align: right;">384</td>
+<td style="text-align: right;">233,561</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Arizona</td>
+<td style="text-align: right;">1,543</td>
+<td style="text-align: right;">205,199</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Arkansas</td>
+<td style="text-align: right;">1,302</td>
+<td style="text-align: right;">20,164</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">California</td>
+<td style="text-align: right;">7,865</td>
+<td style="text-align: right;">555,044</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Colorado</td>
+<td style="text-align: right;">830</td>
+<td style="text-align: right;">24,949</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Connecticut</td>
+<td style="text-align: right;">28</td>
+<td style="text-align: right;">69</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Delaware</td>
+<td style="text-align: right;">(1)</td>
+<td style="text-align: right;">(1)</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Florida</td>
+<td style="text-align: right;">2,436</td>
+<td style="text-align: right;">101,599</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Georgia</td>
+<td style="text-align: right;">3,562</td>
+<td style="text-align: right;">19,199</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Hawaii</td>
+<td style="text-align: right;">(1)</td>
+<td style="text-align: right;">(1)</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Idaho</td>
+<td style="text-align: right;">1,180</td>
+<td style="text-align: right;">189,430</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Illinois</td>
+<td style="text-align: right;">36</td>
+<td style="text-align: right;">727</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Indiana</td>
+<td style="text-align: right;">54</td>
+<td style="text-align: right;">276</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Iowa</td>
+<td style="text-align: right;">577</td>
+<td style="text-align: right;">11,347</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Kansas</td>
+<td style="text-align: right;">68</td>
+<td style="text-align: right;">31,261</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Kentucky</td>
+<td style="text-align: right;">1,466</td>
+<td style="text-align: right;">43,199</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Louisiana</td>
+<td style="text-align: right;">1,005</td>
+<td style="text-align: right;">25,337</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Maine</td>
+<td style="text-align: right;">282</td>
+<td style="text-align: right;">158</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Maryland</td>
+<td style="text-align: right;">125</td>
+<td style="text-align: right;">1,802</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Massachusetts</td>
+<td style="text-align: right;">1,169</td>
+<td style="text-align: right;">1,197</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Michigan</td>
+<td style="text-align: right;">268</td>
+<td style="text-align: right;">716</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Minnesota</td>
+<td style="text-align: right;">990</td>
+<td style="text-align: right;">4,367</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Mississippi</td>
+<td style="text-align: right;">97</td>
+<td style="text-align: right;">10,053</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Missouri</td>
+<td style="text-align: right;">105</td>
+<td style="text-align: right;">5,607</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Montana</td>
+<td style="text-align: right;">1,646</td>
+<td style="text-align: right;">38,118</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Nebraska</td>
+<td style="text-align: right;">38</td>
+<td style="text-align: right;">992</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Nevada</td>
+<td style="text-align: right;">531</td>
+<td style="text-align: right;">59,252</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">New Hampshire</td>
+<td style="text-align: right;">62</td>
+<td style="text-align: right;">45</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">New Jersey</td>
+<td style="text-align: right;">962</td>
+<td style="text-align: right;">10,400</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">New Mexico</td>
+<td style="text-align: right;">728</td>
+<td style="text-align: right;">23,440</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">New York</td>
+<td style="text-align: right;">94</td>
+<td style="text-align: right;">582</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">North Carolina</td>
+<td style="text-align: right;">4,625</td>
+<td style="text-align: right;">15,601</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">North Dakota</td>
+<td style="text-align: right;">567</td>
+<td style="text-align: right;">4,069</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Ohio</td>
+<td style="text-align: right;">63</td>
+<td style="text-align: right;">684</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Oklahoma</td>
+<td style="text-align: right;">1,007</td>
+<td style="text-align: right;">157,080</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Oregon</td>
+<td style="text-align: right;">3,087</td>
+<td style="text-align: right;">984,629</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Pennsylvania</td>
+<td style="text-align: right;">877</td>
+<td style="text-align: right;">4,519</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Rhode Island</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">0</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">South Carolina</td>
+<td style="text-align: right;">1,374</td>
+<td style="text-align: right;">8,312</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">South Dakota</td>
+<td style="text-align: right;">918</td>
+<td style="text-align: right;">13,127</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Tennessee</td>
+<td style="text-align: right;">1,249</td>
+<td style="text-align: right;">156,391</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Texas</td>
+<td style="text-align: right;">9,677</td>
+<td style="text-align: right;">131,138</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Utah</td>
+<td style="text-align: right;">1,035</td>
+<td style="text-align: right;">28,255</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Vermont</td>
+<td style="text-align: right;">53</td>
+<td style="text-align: right;">91</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Virginia</td>
+<td style="text-align: right;">736</td>
+<td style="text-align: right;">10,446</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Washington</td>
+<td style="text-align: right;">1,480</td>
+<td style="text-align: right;">386,972</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">West Virginia</td>
+<td style="text-align: right;">671</td>
+<td style="text-align: right;">8,286</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Wisconsin</td>
+<td style="text-align: right;">613</td>
+<td style="text-align: right;">3,268</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Wyoming</td>
+<td style="text-align: right;">403</td>
+<td style="text-align: right;">7,836</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;"><strong>United States (2)</strong></td>
+<td style="text-align: right;"><strong>63,612</strong></td>
+<td style="text-align: right;"><strong>3,595,613</strong></td>
+</tr></tbody></table></td></tr></table><div class="tablewrapper-captions"><p>(1) Delaware and Hawaii had no wildfires in 2014.<br />
+(2) Includes Puerto Rico which had 3,647 fires that burned 16,292 acres.</p>
+<p>Source: National Interagency Fire Center.</p>
+</div><div class="tablewrapper-spacer">&nbsp;</div></div>  </div>  
+  <div class="views-field views-field-field-iframe-url">        <div class="field-content"></div>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content">WILDFIRES BY STATE, 2015</span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><a href="/table-archive/218674/file">Export To Excel</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-table">        <div class="field-content"><table><tr><td class="tablewrapper"><table border="0" cellpadding="0" cellspacing="0" class="tablesorter" width="353"><colgroup><col /><col /><col /></colgroup><thead><tr height="20"><th height="20" style="height: 20px; width: 107px; white-space: nowrap;">State</th>
+<th style="width: 97px; white-space: nowrap;">Number of fires</th>
+<th style="width: 151px; white-space: nowrap;">Number of acres burned</th>
+</tr></thead><tbody><tr class="odd" height="20"><td height="20" style="height:20px;">Alabama</td>
+<td style="text-align: right;">3,198</td>
+<td style="text-align: right;">47,380</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Alaska</td>
+<td style="text-align: right;">768</td>
+<td style="text-align: right;">5,111,404</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Arizona</td>
+<td style="text-align: right;">1,662</td>
+<td style="text-align: right;">160,152</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Arkansas</td>
+<td style="text-align: right;">1,837</td>
+<td style="text-align: right;">26,630</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">California</td>
+<td style="text-align: right;">8,745</td>
+<td style="text-align: right;">893,362</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Colorado</td>
+<td style="text-align: right;">709</td>
+<td style="text-align: right;">22,602</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Connecticut</td>
+<td style="text-align: right;">76</td>
+<td style="text-align: right;">159</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Delaware</td>
+<td style="text-align: right;">(1)</td>
+<td style="text-align: right;">(1)</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Florida</td>
+<td style="text-align: right;">2,422</td>
+<td style="text-align: right;">73,432</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Georgia</td>
+<td style="text-align: right;">2,331</td>
+<td style="text-align: right;">10,556</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Hawaii</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">5,611</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Idaho</td>
+<td style="text-align: right;">1,324</td>
+<td style="text-align: right;">804,094</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Illinois</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">806</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Indiana</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">868</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Iowa</td>
+<td style="text-align: right;">533</td>
+<td style="text-align: right;">14,945</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Kansas</td>
+<td style="text-align: right;">154</td>
+<td style="text-align: right;">53,936</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Kentucky</td>
+<td style="text-align: right;">774</td>
+<td style="text-align: right;">19,207</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Louisiana</td>
+<td style="text-align: right;">1,172</td>
+<td style="text-align: right;">21,036</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Maine</td>
+<td style="text-align: right;">375</td>
+<td style="text-align: right;">574</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Maryland</td>
+<td style="text-align: right;">158</td>
+<td style="text-align: right;">1,078</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Massachusetts</td>
+<td style="text-align: right;">1,525</td>
+<td style="text-align: right;">1,763</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Michigan</td>
+<td style="text-align: right;">526</td>
+<td style="text-align: right;">3,806</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Minnesota</td>
+<td style="text-align: right;">1,849</td>
+<td style="text-align: right;">30,563</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Mississippi</td>
+<td style="text-align: right;">2,294</td>
+<td style="text-align: right;">34,769</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Missouri</td>
+<td style="text-align: right;">3,161</td>
+<td style="text-align: right;">29,893</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Montana</td>
+<td style="text-align: right;">2,432</td>
+<td style="text-align: right;">351,264</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Nebraska</td>
+<td style="text-align: right;">51</td>
+<td style="text-align: right;">4,854</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Nevada</td>
+<td style="text-align: right;">551</td>
+<td style="text-align: right;">42,479</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">New Hampshire</td>
+<td style="text-align: right;">114</td>
+<td style="text-align: right;">622</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">New Jersey</td>
+<td style="text-align: right;">1,013</td>
+<td style="text-align: right;">2,685</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">New Mexico</td>
+<td style="text-align: right;">696</td>
+<td style="text-align: right;">44,104</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">New York</td>
+<td style="text-align: right;">186</td>
+<td style="text-align: right;">3,844</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">North Carolina</td>
+<td style="text-align: right;">3,828</td>
+<td style="text-align: right;">15,220</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">North Dakota</td>
+<td style="text-align: right;">726</td>
+<td style="text-align: right;">32,321</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Ohio</td>
+<td style="text-align: right;">69</td>
+<td style="text-align: right;">548</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Oklahoma</td>
+<td style="text-align: right;">1,309</td>
+<td style="text-align: right;">100,382</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Oregon</td>
+<td style="text-align: right;">2,588</td>
+<td style="text-align: right;">685,809</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Pennsylvania</td>
+<td style="text-align: right;">831</td>
+<td style="text-align: right;">4,473</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Rhode Island</td>
+<td style="text-align: right;">86</td>
+<td style="text-align: right;">132</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">South Carolina</td>
+<td style="text-align: right;">976</td>
+<td style="text-align: right;">3,800</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">South Dakota</td>
+<td style="text-align: right;">1,032</td>
+<td style="text-align: right;">72,985</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Tennessee</td>
+<td style="text-align: right;">611</td>
+<td style="text-align: right;">8,478</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Texas</td>
+<td style="text-align: right;">9,272</td>
+<td style="text-align: right;">184,418</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Utah</td>
+<td style="text-align: right;">930</td>
+<td style="text-align: right;">10,203</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Vermont</td>
+<td style="text-align: right;">102</td>
+<td style="text-align: right;">346</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Virginia</td>
+<td style="text-align: right;">631</td>
+<td style="text-align: right;">6,574</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Washington</td>
+<td style="text-align: right;">2,013</td>
+<td style="text-align: right;">1,137,664</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">West Virginia</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">219</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Wisconsin</td>
+<td style="text-align: right;">993</td>
+<td style="text-align: right;">2,970</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Wyoming</td>
+<td style="text-align: right;">512</td>
+<td style="text-align: right;">35,652</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;"><strong>United States (2)</strong></td>
+<td style="text-align: right;"><strong>68,151</strong></td>
+<td style="text-align: right;"><strong>10,125,149</strong></td>
+</tr></tbody></table></td></tr></table><div class="tablewrapper-captions"><p>(1) Delaware had no wildfires in 2015.<br />
+(2) Includes Puerto Rico which had 947 fires that burned 4,477 acres.</p>
+<p>Source: National Interagency Fire Center.</p>
+</div><div class="tablewrapper-spacer">&nbsp;</div></div>  </div>  
+  <div class="views-field views-field-field-iframe-url">        <div class="field-content"></div>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content">Wildfires By State, 2016</span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><a href="/table-archive/220226/file">Export To Excel</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-table">        <div class="field-content"><table><tr><td class="tablewrapper"><table border="0" cellpadding="0" cellspacing="0" class="tablesorter" style="width:490px;" width="490"><colgroup><col /><col /><col /></colgroup><thead><tr height="20"><th height="20" style="height: 20px; width: 187px;">State</th>
+<th style="width: 123px;">Number of fires</th>
+<th style="width: 180px;">Number of acres burned </th>
+</tr></thead><tbody><tr class="odd" height="20"><td height="20" style="height:20px;">Alaska</td>
+<td align="right">572</td>
+<td align="right">496,467</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Alabama</td>
+<td align="right">3,923</td>
+<td align="right">59,030</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Arizona</td>
+<td align="right">2,288</td>
+<td align="right">308,245</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Arkansas</td>
+<td align="right">1,513</td>
+<td align="right">33,371</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">California</td>
+<td align="right">7,349</td>
+<td align="right">560,815</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Colorado</td>
+<td align="right">1,190</td>
+<td align="right">129,495</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Connecticut</td>
+<td align="right">268</td>
+<td align="right">778</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Delaware</td>
+<td style="text-align: right;">                          (1)</td>
+<td style="text-align: right;">                                     (1)</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Florida</td>
+<td align="right">3,067</td>
+<td align="right">74,416</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Georgia</td>
+<td align="right">5,086</td>
+<td align="right">52,119</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Hawaii</td>
+<td align="right">10</td>
+<td align="right">15,098</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Idaho</td>
+<td align="right">630</td>
+<td align="right">361,649</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Illinois</td>
+<td align="right">12</td>
+<td align="right">133</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Indiana</td>
+<td align="right">27</td>
+<td align="right">620</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Iowa</td>
+<td align="right">465</td>
+<td align="right">21,371</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Kansas</td>
+<td align="right">75</td>
+<td align="right">349,829</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Kentucky</td>
+<td align="right">1,220</td>
+<td align="right">73,864</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Louisiana</td>
+<td align="right">508</td>
+<td align="right">7,799</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Maine</td>
+<td align="right">796</td>
+<td align="right">946</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Maryland</td>
+<td align="right">120</td>
+<td align="right">242</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Massachusetts</td>
+<td align="right">1,526</td>
+<td align="right">1,381</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Michigan</td>
+<td align="right">389</td>
+<td align="right">3,666</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Minnesota</td>
+<td align="right">1,422</td>
+<td align="right">12,268</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Mississippi</td>
+<td align="right">94</td>
+<td align="right">8,128</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Missouri</td>
+<td align="right">2,610</td>
+<td align="right">32,134</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Montana</td>
+<td align="right">2,026</td>
+<td align="right">114,594</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Nebraska</td>
+<td align="right">45</td>
+<td align="right">24,498</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Nevada</td>
+<td align="right">467</td>
+<td align="right">265,156</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">New Hampshire</td>
+<td align="right">148</td>
+<td align="right">880</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">New Jersey</td>
+<td align="right">1,050</td>
+<td align="right">4,445</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">New Mexico</td>
+<td align="right">1,240</td>
+<td align="right">212,425</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">New York </td>
+<td align="right">196</td>
+<td align="right">4,236</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">North Carolina</td>
+<td align="right">4,007</td>
+<td align="right">88,109</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">North Dakota</td>
+<td align="right">563</td>
+<td align="right">4,657</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Ohio</td>
+<td align="right">410</td>
+<td align="right">1,116</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Oklahoma</td>
+<td align="right">1,938</td>
+<td align="right">767,780</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Oregon</td>
+<td align="right">1,245</td>
+<td align="right">219,509</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Pennsylvania</td>
+<td align="right">871</td>
+<td align="right">12,245</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Rhode Island</td>
+<td align="right">79</td>
+<td align="right">57</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">South Carolina</td>
+<td align="right">982</td>
+<td align="right">3,804</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">South Dakota</td>
+<td align="right">1,216</td>
+<td align="right">81,561</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Tennessee</td>
+<td align="right">2,165</td>
+<td align="right">88,038</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Texas</td>
+<td align="right">9,300</td>
+<td align="right">356,680</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Utah</td>
+<td align="right">1,078</td>
+<td align="right">101,096</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Vermont</td>
+<td align="right">150</td>
+<td align="right">386</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Virginia</td>
+<td align="right">580</td>
+<td align="right">41,441</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Washington</td>
+<td align="right">1,272</td>
+<td align="right">293,717</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">West Virginia</td>
+<td align="right">18</td>
+<td align="right">443</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;">Wisconsin</td>
+<td align="right">713</td>
+<td align="right">695</td>
+</tr><tr class="even" height="20"><td height="20" style="height:20px;">Wyoming</td>
+<td align="right">711</td>
+<td align="right">218,077</td>
+</tr><tr class="odd" height="20"><td height="20" style="height:20px;"><strong>United States (2)</strong></td>
+<td align="right"><strong>67,743</strong></td>
+<td align="right"><strong>5,509,995</strong></td>
+</tr></tbody></table></td></tr></table><div class="tablewrapper-captions"><p>(1) Delaware had no wildfires in 2016.<br />
+(2) Includes Puerto Rico which had 113 fires that burned 486 acres.</p>
+<p>Source: National Interagency Fire Center.</p>
+</div><div class="tablewrapper-spacer">&nbsp;</div></div>  </div>  
+  <div class="views-field views-field-field-iframe-url">        <div class="field-content"></div>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content">Wildfires By State, 2017</span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><a href="/table-archive/220932/file">Export To Excel</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-table">        <div class="field-content"><table><tr><td class="tablewrapper"><table width="490" cellspacing="0" cellpadding="0" border="0"><thead><tr height="20"><th style="height: 20px; width: 187px; white-space: nowrap; text-align: center;" height="20">State</th>
+<th style="width: 123px; white-space: nowrap; text-align: center;">Number of fires</th>
+<th style="width: 180px; white-space: nowrap; text-align: center;">Number of acres burned </th>
+</tr></thead><tbody><tr class="odd" height="20"><td style="height:20px;" height="20">Alabama</td>
+<td align="right">1,254</td>
+<td align="right">20,192</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">Alaska</td>
+<td align="right">364</td>
+<td align="right">653,023</td>
+</tr><tr class="odd" height="20"><td style="height:20px;" height="20">Arizona</td>
+<td align="right">2,321</td>
+<td align="right">429,564</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">Arkansas</td>
+<td align="right">1,706</td>
+<td align="right">34,624</td>
+</tr><tr class="odd" height="20"><td style="height:20px;" height="20">California</td>
+<td align="right">9,560</td>
+<td align="right">1,266,224</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">Colorado</td>
+<td align="right">967</td>
+<td align="right">111,667</td>
+</tr><tr class="odd" height="20"><td style="height:20px;" height="20">Connecticut</td>
+<td align="right">97</td>
+<td align="right">243</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">Delaware</td>
+<td align="right">5</td>
+<td align="right">6</td>
+</tr><tr class="odd" height="20"><td style="height:20px;" height="20">Florida</td>
+<td align="right">3,280</td>
+<td align="right">298,831</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">Georgia</td>
+<td align="right">3,929</td>
+<td align="right">200,785</td>
+</tr><tr class="odd" height="20"><td style="height:20px;" height="20">Hawaii</td>
+<td align="right">3</td>
+<td align="right">2,098</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">Idaho</td>
+<td align="right">1,598</td>
+<td align="right">686,262</td>
+</tr><tr class="odd" height="20"><td style="height:20px;" height="20">Illinois</td>
+<td align="right">13</td>
+<td align="right">98</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">Indiana</td>
+<td align="right">22</td>
+<td align="right">553</td>
+</tr><tr class="odd" height="20"><td style="height:20px;" height="20">Iowa</td>
+<td align="right">427</td>
+<td align="right">7,216</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">Kansas</td>
+<td align="right">71</td>
+<td align="right">476,306</td>
+</tr><tr class="odd" height="20"><td style="height:20px;" height="20">Kentucky</td>
+<td align="right">892</td>
+<td align="right">28,927</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">Louisiana</td>
+<td align="right">1,064</td>
+<td align="right">11,356</td>
+</tr><tr class="odd" height="20"><td style="height:20px;" height="20">Maine</td>
+<td align="right">489</td>
+<td align="right">369</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">Maryland</td>
+<td align="right">108</td>
+<td align="right">2,178</td>
+</tr><tr class="odd" height="20"><td style="height:20px;" height="20">Massachusetts</td>
+<td align="right">1,216</td>
+<td align="right">844</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">Michigan</td>
+<td align="right">270</td>
+<td align="right">736</td>
+</tr><tr class="odd" height="20"><td style="height:20px;" height="20">Minnesota</td>
+<td align="right">1,036</td>
+<td align="right">5,553</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">Mississippi</td>
+<td align="right">2,775</td>
+<td align="right">40,595</td>
+</tr><tr class="odd" height="20"><td style="height:20px;" height="20">Missouri</td>
+<td align="right">3,398</td>
+<td align="right">8,459</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">Montana</td>
+<td align="right">2,422</td>
+<td align="right">1,366,498</td>
+</tr><tr class="odd" height="20"><td style="height:20px;" height="20">Nebraska</td>
+<td align="right">49</td>
+<td align="right">3,160</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">Nevada</td>
+<td align="right">768</td>
+<td align="right">1,329,289</td>
+</tr><tr class="odd" height="20"><td style="height:20px;" height="20">New Hampshire</td>
+<td align="right">36</td>
+<td align="right">123</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">New Jersey</td>
+<td align="right">735</td>
+<td align="right">5,144</td>
+</tr><tr class="odd" height="20"><td style="height:20px;" height="20">New Mexico</td>
+<td align="right">813</td>
+<td align="right">141,663</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">New York</td>
+<td align="right">57</td>
+<td align="right">191</td>
+</tr><tr class="odd" height="20"><td style="height:20px;" height="20">North Carolina</td>
+<td align="right">5,125</td>
+<td align="right">46,507</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">North Dakota</td>
+<td align="right">1,086</td>
+<td align="right">19,841</td>
+</tr><tr class="odd" height="20"><td style="height:20px;" height="20">Ohio</td>
+<td align="right">68</td>
+<td align="right">733</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">Oklahoma</td>
+<td align="right">1,906</td>
+<td align="right">502,625</td>
+</tr><tr class="odd" height="20"><td style="height:20px;" height="20">Oregon</td>
+<td align="right">2,049</td>
+<td align="right">714,520</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">Pennsylvania</td>
+<td align="right">537</td>
+<td align="right">1,652</td>
+</tr><tr class="odd" height="20"><td style="height:20px;" height="20">Rhode Island</td>
+<td align="right">31</td>
+<td align="right">30</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">South Carolina</td>
+<td align="right">1,092</td>
+<td align="right">11,041</td>
+</tr><tr class="odd" height="20"><td style="height:20px;" height="20">South Dakota</td>
+<td align="right">1,420</td>
+<td align="right">77,386</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">Tennessee</td>
+<td align="right">593</td>
+<td align="right">6,949</td>
+</tr><tr class="odd" height="20"><td style="height:20px;" height="20">Texas</td>
+<td align="right">9,827</td>
+<td align="right">734,682</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">Utah</td>
+<td align="right">1,166</td>
+<td align="right">249,829</td>
+</tr><tr class="odd" height="20"><td style="height:20px;" height="20">Vermont</td>
+<td align="right">55</td>
+<td align="right">50</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">Virginia</td>
+<td align="right">1,522</td>
+<td align="right">20,194</td>
+</tr><tr class="odd" height="20"><td style="height:20px;" height="20">Washington</td>
+<td align="right">1,346</td>
+<td align="right">404,223</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">West Virginia</td>
+<td align="right">520</td>
+<td align="right">6,866</td>
+</tr><tr class="odd" height="20"><td style="height:20px;" height="20">Wisconsin</td>
+<td align="right">696</td>
+<td align="right">661</td>
+</tr><tr class="even" height="20"><td style="height:20px;" height="20">Wyoming</td>
+<td align="right">599</td>
+<td align="right">90,115</td>
+</tr><tr class="odd" height="20"><td style="height: 20px; white-space: nowrap;" height="20"><strong>United States (1)</strong></td>
+<td align="right"><strong>71,499</strong></td>
+<td align="right"><strong>10,024,086</strong></td>
+</tr></tbody></table></td></tr></table><div class="tablewrapper-captions"><p>(1) Includes Puerto Rico which had 116 fires that burned 3,405 acres.</p>
+<p>Source: National Interagency Fire Center.</p>
+</div><div class="tablewrapper-spacer">&nbsp;</div></div>  </div>  
+  <div class="views-field views-field-field-iframe-url">        <div class="field-content"></div>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content">Wildfires By State, 2018</span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><a href="/table-archive/221865/file">Export To Excel</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p> </p>
+</div>  </div>  
+  <div class="views-field views-field-field-table">        <div class="field-content"><table><tr><td class="tablewrapper"><table class="tablesorter" style="border-collapse:collapse; width:367pt; border:medium none" width="490"><thead></thead><tbody><tr class="odd" style="height:15.0pt" height="20"><th style="white-space: nowrap; text-align: center;">State</th>
+<th style="white-space: nowrap; text-align: center;">Number of fires</th>
+<th style="white-space: nowrap; text-align: center;">Number of acres burned</th>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>Alabama</td>
+<td style="text-align: right;">970</td>
+<td style="text-align: right;">15,464</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>Alaska</td>
+<td style="text-align: right;">367</td>
+<td style="text-align: right;">410,683</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>Arizona</td>
+<td style="text-align: right;">2,000</td>
+<td style="text-align: right;">165,356</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>Arkansas</td>
+<td style="text-align: right;">1,119</td>
+<td style="text-align: right;">24,071</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>California</td>
+<td style="text-align: right;">8,054</td>
+<td style="text-align: right;">1,823,153</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>Colorado</td>
+<td style="text-align: right;">1,328</td>
+<td style="text-align: right;">475,803</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>Connecticut</td>
+<td style="text-align: right;">52</td>
+<td style="text-align: right;">40</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>Delaware</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>District of Columbia</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>Florida</td>
+<td style="text-align: right;">2,249</td>
+<td style="text-align: right;">138,820</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>Georgia</td>
+<td style="text-align: right;">2,572</td>
+<td style="text-align: right;">14,236</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>Hawaii</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">21,979</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>Idaho</td>
+<td style="text-align: right;">1,132</td>
+<td style="text-align: right;">604,481</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>Illinois</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">120</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>Indiana</td>
+<td style="text-align: right;">26</td>
+<td style="text-align: right;">115</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>Iowa</td>
+<td style="text-align: right;">386</td>
+<td style="text-align: right;">8,014</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>Kansas</td>
+<td style="text-align: right;">71</td>
+<td style="text-align: right;">59,234</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>Kentucky</td>
+<td style="text-align: right;">376</td>
+<td style="text-align: right;">8,417</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>Louisiana</td>
+<td style="text-align: right;">647</td>
+<td style="text-align: right;">10,742</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>Maine</td>
+<td style="text-align: right;">542</td>
+<td style="text-align: right;">678</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>Maryland</td>
+<td style="text-align: right;">76</td>
+<td style="text-align: right;">359</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>Massachusetts</td>
+<td style="text-align: right;">320</td>
+<td style="text-align: right;">210</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>Michigan</td>
+<td style="text-align: right;">431</td>
+<td style="text-align: right;">3,786</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>Minnesota</td>
+<td style="text-align: right;">1,344</td>
+<td style="text-align: right;">17,005</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>Mississippi</td>
+<td style="text-align: right;">1,168</td>
+<td style="text-align: right;">21,194</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>Missouri</td>
+<td style="text-align: right;">103</td>
+<td style="text-align: right;">6,025</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>Montana</td>
+<td style="text-align: right;">1,342</td>
+<td style="text-align: right;">97,814</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>Nebraska</td>
+<td style="text-align: right;">35</td>
+<td style="text-align: right;">122</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>Nevada</td>
+<td style="text-align: right;">649</td>
+<td style="text-align: right;">1,001,966</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>New Hampshire</td>
+<td style="text-align: right;">145</td>
+<td style="text-align: right;">61</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>New Jersey</td>
+<td style="text-align: right;">625</td>
+<td style="text-align: right;">1,347</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>New Mexico</td>
+<td style="text-align: right;">1,334</td>
+<td style="text-align: right;">382,345</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>New York</td>
+<td style="text-align: right;">109</td>
+<td style="text-align: right;">848</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>North Carolina</td>
+<td style="text-align: right;">3,625</td>
+<td style="text-align: right;">18,058</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>North Dakota</td>
+<td style="text-align: right;">1,026</td>
+<td style="text-align: right;">19,557</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>Ohio</td>
+<td style="text-align: right;">67</td>
+<td style="text-align: right;">337</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>Oklahoma</td>
+<td style="text-align: right;">1,707</td>
+<td style="text-align: right;">745,097</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>Oregon</td>
+<td style="text-align: right;">2,019</td>
+<td style="text-align: right;">897,263</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>Pennsylvania</td>
+<td style="text-align: right;">1,276</td>
+<td style="text-align: right;">3,614</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>Puerto Rico</td>
+<td style="text-align: right;">25</td>
+<td style="text-align: right;">389</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>Rhode Island</td>
+<td style="text-align: right;">32</td>
+<td style="text-align: right;">14</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>South Carolina</td>
+<td style="text-align: right;">1,136</td>
+<td style="text-align: right;">9,939</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>South Dakota</td>
+<td style="text-align: right;">433</td>
+<td style="text-align: right;">5,027</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>Tennessee</td>
+<td style="text-align: right;">341</td>
+<td style="text-align: right;">3,763</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>Texas</td>
+<td style="text-align: right;">10,541</td>
+<td style="text-align: right;">569,811</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>Utah</td>
+<td style="text-align: right;">1,333</td>
+<td style="text-align: right;">438,983</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>Vermont</td>
+<td style="text-align: right;">59</td>
+<td style="text-align: right;">113</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>Virginia</td>
+<td style="text-align: right;">1,266</td>
+<td style="text-align: right;">15,224</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>Washington</td>
+<td style="text-align: right;">1,743</td>
+<td style="text-align: right;">438,834</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>West Virginia</td>
+<td style="text-align: right;">467</td>
+<td style="text-align: right;">6,370</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td>Wisconsin</td>
+<td style="text-align: right;">825</td>
+<td style="text-align: right;">1,678</td>
+</tr><tr class="odd" style="height:15.0pt" height="20"><td>Wyoming</td>
+<td style="text-align: right;">611</td>
+<td style="text-align: right;">279,243</td>
+</tr><tr class="even" style="height:15.0pt" height="20"><td><strong>United States (1)</strong></td>
+<td style="text-align: right;"><strong>58,083</strong></td>
+<td style="text-align: right;"><strong>8,767,492</strong></td>
+</tr></tbody></table></td></tr></table><div class="tablewrapper-captions"><p>(1) Includes Puerto Rico.</p>
+<p>Source: National Interagency Fire Center.</p>
+</div><div class="tablewrapper-spacer">&nbsp;</div></div>  </div>  
+  <div class="views-field views-field-field-iframe-url">        <div class="field-content"></div>  </div>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content">Wildfires By State, 2019</span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><a href="/table-archive/222809/file">Export To Excel</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p> </p>
+</div>  </div>  
+  <div class="views-field views-field-field-table">        <div class="field-content"><table><tr><td class="tablewrapper"><table style="border-collapse:collapse; width:386pt; border:medium none" width="514"><thead><tr style="height:14.5pt" height="19"><th style="white-space: nowrap; text-align: center;">State</th>
+<th style="white-space: nowrap; text-align: center;">Number of fires</th>
+<th style="white-space: nowrap; text-align: center;">Number of acres burned</th>
+</tr></thead><tbody><tr class="odd" style="height:14.5pt" height="19"><td>Alabama</td>
+<td style="text-align: right;">1,107</td>
+<td style="text-align: right;">22,158</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Alaska</td>
+<td style="text-align: right;">720</td>
+<td style="text-align: right;">2,498,159</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Arizona</td>
+<td style="text-align: right;">1,869</td>
+<td style="text-align: right;">384,942</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Arkansas</td>
+<td style="text-align: right;">660</td>
+<td style="text-align: right;">8,602</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>California</td>
+<td style="text-align: right;">8,194</td>
+<td style="text-align: right;">259,148</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Colorado</td>
+<td style="text-align: right;">857</td>
+<td style="text-align: right;">40,392</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Connecticut</td>
+<td style="text-align: right;">88</td>
+<td style="text-align: right;">72</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Delaware</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>District of Columbia</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Florida</td>
+<td style="text-align: right;">2,121</td>
+<td style="text-align: right;">122,500</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Georgia</td>
+<td style="text-align: right;">3,158</td>
+<td style="text-align: right;">12,407</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Hawaii</td>
+<td style="text-align: right;">155</td>
+<td style="text-align: right;">10,710</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Idaho</td>
+<td style="text-align: right;">960</td>
+<td style="text-align: right;">284,026</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Illinois</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">41</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Indiana</td>
+<td style="text-align: right;">38</td>
+<td style="text-align: right;">523</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Iowa</td>
+<td style="text-align: right;">153</td>
+<td style="text-align: right;">2,020</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Kansas</td>
+<td style="text-align: right;">19</td>
+<td style="text-align: right;">21,167</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Kentucky</td>
+<td style="text-align: right;">755</td>
+<td style="text-align: right;">11,714</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Louisiana</td>
+<td style="text-align: right;">361</td>
+<td style="text-align: right;">3,059</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Maine</td>
+<td style="text-align: right;">355</td>
+<td style="text-align: right;">142</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Maryland</td>
+<td style="text-align: right;">140</td>
+<td style="text-align: right;">1,498</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Massachusetts</td>
+<td style="text-align: right;">289</td>
+<td style="text-align: right;">248</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Michigan</td>
+<td style="text-align: right;">361</td>
+<td style="text-align: right;">1,128</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Minnesota</td>
+<td style="text-align: right;">1,021</td>
+<td style="text-align: right;">5,862</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Mississippi</td>
+<td style="text-align: right;">959</td>
+<td style="text-align: right;">5,473</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Missouri</td>
+<td style="text-align: right;">67</td>
+<td style="text-align: right;">5,091</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Montana</td>
+<td style="text-align: right;">1,474</td>
+<td style="text-align: right;">64,835</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Nebraska</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">9,478</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Nevada</td>
+<td style="text-align: right;">562</td>
+<td style="text-align: right;">82,282</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>New Hampshire</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">25</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>New Jersey</td>
+<td style="text-align: right;">727</td>
+<td style="text-align: right;">11,346</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>New Mexico</td>
+<td style="text-align: right;">859</td>
+<td style="text-align: right;">79,887</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>New York</td>
+<td style="text-align: right;">79</td>
+<td style="text-align: right;">221</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>North Carolina</td>
+<td style="text-align: right;">3,872</td>
+<td style="text-align: right;">14,548</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>North Dakota</td>
+<td style="text-align: right;">488</td>
+<td style="text-align: right;">4,454</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Ohio</td>
+<td style="text-align: right;">498</td>
+<td style="text-align: right;">1,038</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Oklahoma</td>
+<td style="text-align: right;">1,104</td>
+<td style="text-align: right;">67,142</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Oregon</td>
+<td style="text-align: right;">2,293</td>
+<td style="text-align: right;">79,732</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Pennsylvania</td>
+<td style="text-align: right;">547</td>
+<td style="text-align: right;">691</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Puerto Rico</td>
+<td style="text-align: right;">97</td>
+<td style="text-align: right;">2,906</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Rhode Island</td>
+<td style="text-align: right;">45</td>
+<td style="text-align: right;">33</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>South Carolina</td>
+<td style="text-align: right;">992</td>
+<td style="text-align: right;">5,939</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>South Dakota</td>
+<td style="text-align: right;">346</td>
+<td style="text-align: right;">2,261</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Tennessee</td>
+<td style="text-align: right;">571</td>
+<td style="text-align: right;">5,478</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Texas</td>
+<td style="text-align: right;">6,892</td>
+<td style="text-align: right;">215,493</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Utah</td>
+<td style="text-align: right;">1,025</td>
+<td style="text-align: right;">92,380</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Vermont</td>
+<td style="text-align: right;">19</td>
+<td style="text-align: right;">22</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Virginia</td>
+<td style="text-align: right;">364</td>
+<td style="text-align: right;">2,643</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Washington</td>
+<td style="text-align: right;">1,394</td>
+<td style="text-align: right;">169,742</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>West Virginia</td>
+<td style="text-align: right;">593</td>
+<td style="text-align: right;">7,653</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Wisconsin</td>
+<td style="text-align: right;">710</td>
+<td style="text-align: right;">1,198</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Wyoming</td>
+<td style="text-align: right;">486</td>
+<td style="text-align: right;">41,857</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td style="white-space: nowrap;"><strong>United States (1)</strong></td>
+<td style="text-align: right;"><strong>50,477</strong></td>
+<td style="text-align: right;"><strong>4,664,366</strong></td>
+</tr></tbody></table></td></tr></table><div class="tablewrapper-captions"><p>(1) Includes Puerto Rico.</p>
+<p>Source: National Interagency Fire Center.</p>
+</div><div class="tablewrapper-spacer">&nbsp;</div></div>  </div>  
+  <div class="views-field views-field-field-iframe-url">        <div class="field-content"></div>  </div>  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content">Wildfires By State, 2020</span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><a href="/table-archive/223241/file">Export To Excel</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p> </p>
+</div>  </div>  
+  <div class="views-field views-field-field-table">        <div class="field-content"><table><tr><td class="tablewrapper"><table class="tablesorter" style="border-collapse:collapse; width:386pt; border:medium none" width="514"><thead><tr style="height:14.5pt" height="19"><th style="white-space: nowrap; text-align: center;">State</th>
+<th style="white-space: nowrap; text-align: center;">Number of fires</th>
+<th style="white-space: nowrap; text-align: center;">Number of acres burned</th>
+</tr></thead><tbody><tr class="odd" style="height:14.5pt" height="19"><td>Alabama</td>
+<td style="text-align: right;">836</td>
+<td style="text-align: right;">20,557</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Alaska</td>
+<td style="text-align: right;">349</td>
+<td style="text-align: right;">181,169</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Arizona</td>
+<td style="text-align: right;">2,524</td>
+<td style="text-align: right;">978,568</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Arkansas</td>
+<td style="text-align: right;">655</td>
+<td style="text-align: right;">12,552</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>California</td>
+<td style="text-align: right;">10,431</td>
+<td style="text-align: right;">4,092,151</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Colorado</td>
+<td style="text-align: right;">1,080</td>
+<td style="text-align: right;">625,357</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Connecticut</td>
+<td style="text-align: right;">586</td>
+<td style="text-align: right;">383</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Delaware</td>
+<td style="text-align: right;">426</td>
+<td style="text-align: right;">1,356</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td style="white-space: nowrap;">District of Columbia</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Florida</td>
+<td style="text-align: right;">2,381</td>
+<td style="text-align: right;">99,413</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Georgia</td>
+<td style="text-align: right;">1,699</td>
+<td style="text-align: right;">5,677</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Hawaii</td>
+<td style="text-align: right;">58</td>
+<td style="text-align: right;">472</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Idaho</td>
+<td style="text-align: right;">944</td>
+<td style="text-align: right;">314,352</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Illinois</td>
+<td style="text-align: right;">19</td>
+<td style="text-align: right;">240</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Indiana</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">313</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Iowa</td>
+<td style="text-align: right;">126</td>
+<td style="text-align: right;">2,168</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Kansas</td>
+<td style="text-align: right;">52</td>
+<td style="text-align: right;">34,581</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Kentucky</td>
+<td style="text-align: right;">524</td>
+<td style="text-align: right;">7,950</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Louisiana</td>
+<td style="text-align: right;">401</td>
+<td style="text-align: right;">5,880</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Maine</td>
+<td style="text-align: right;">1,156</td>
+<td style="text-align: right;">1,032</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Maryland</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">930</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Massachusetts</td>
+<td style="text-align: right;">1,189</td>
+<td style="text-align: right;">834</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Michigan</td>
+<td style="text-align: right;">409</td>
+<td style="text-align: right;">1,131</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Minnesota</td>
+<td style="text-align: right;">1,372</td>
+<td style="text-align: right;">8,838</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Mississippi</td>
+<td style="text-align: right;">729</td>
+<td style="text-align: right;">22,035</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Missouri</td>
+<td style="text-align: right;">1,090</td>
+<td style="text-align: right;">17,940</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Montana</td>
+<td style="text-align: right;">2,433</td>
+<td style="text-align: right;">369,633</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Nebraska</td>
+<td style="text-align: right;">41</td>
+<td style="text-align: right;">7,611</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Nevada</td>
+<td style="text-align: right;">770</td>
+<td style="text-align: right;">259,275</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>New Hampshire</td>
+<td style="text-align: right;">252</td>
+<td style="text-align: right;">88</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>New Jersey</td>
+<td style="text-align: right;">1,981</td>
+<td style="text-align: right;">11,919</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>New Mexico</td>
+<td style="text-align: right;">1,018</td>
+<td style="text-align: right;">109,513</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>New York</td>
+<td style="text-align: right;">192</td>
+<td style="text-align: right;">1,123</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>North Carolina</td>
+<td style="text-align: right;">2,364</td>
+<td style="text-align: right;">12,875</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>North Dakota</td>
+<td style="text-align: right;">651</td>
+<td style="text-align: right;">3,782</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Ohio</td>
+<td style="text-align: right;">649</td>
+<td style="text-align: right;">1,551</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Oklahoma</td>
+<td style="text-align: right;">1,241</td>
+<td style="text-align: right;">102,302</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Oregon</td>
+<td style="text-align: right;">2,215</td>
+<td style="text-align: right;">1,141,613</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Pennsylvania</td>
+<td style="text-align: right;">1,488</td>
+<td style="text-align: right;">2,997</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Puerto Rico</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Rhode Island</td>
+<td style="text-align: right;">113</td>
+<td style="text-align: right;">85</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>South Carolina</td>
+<td style="text-align: right;">465</td>
+<td style="text-align: right;">1,754</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>South Dakota</td>
+<td style="text-align: right;">852</td>
+<td style="text-align: right;">19,636</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Tennessee</td>
+<td style="text-align: right;">391</td>
+<td style="text-align: right;">4,207</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Texas</td>
+<td style="text-align: right;">6,713</td>
+<td style="text-align: right;">256,826</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Utah</td>
+<td style="text-align: right;">1,493</td>
+<td style="text-align: right;">329,735</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Vermont</td>
+<td style="text-align: right;">96</td>
+<td style="text-align: right;">126</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Virginia</td>
+<td style="text-align: right;">410</td>
+<td style="text-align: right;">5,596</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Washington</td>
+<td style="text-align: right;">1,646</td>
+<td style="text-align: right;">842,370</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>West Virginia</td>
+<td style="text-align: right;">1,230</td>
+<td style="text-align: right;">8,196</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td>Wisconsin</td>
+<td style="text-align: right;">781</td>
+<td style="text-align: right;">1,785</td>
+</tr><tr class="even" style="height:14.5pt" height="19"><td>Wyoming</td>
+<td style="text-align: right;">828</td>
+<td style="text-align: right;">339,783</td>
+</tr><tr class="odd" style="height:14.5pt" height="19"><td><strong>United States (1)</strong></td>
+<td style="text-align: right;"><strong>59,362</strong></td>
+<td style="text-align: right;"><strong>10,270,258</strong></td>
+</tr></tbody></table></td></tr></table><div class="tablewrapper-captions"><p>(1) Includes Puerto Rico.</p>
+<p>Source: National Interagency Fire Center.</p>
+</div><div class="tablewrapper-spacer">&nbsp;</div></div>  </div>  
+  <div class="views-field views-field-field-iframe-url">        <div class="field-content"></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="dialogImg"></div>    <div id="block-nylon-common-functions-responsive-footer" class="block block-nylon-common-functions">
+
+    
+  <div class="content">
+    
+		<!-- ---------------------------------------------------------
+			2017.4.19, Ye Wang
+			Global Footer
+			
+			2017.6.16, Ye Wang
+			Banner removed - app decommishioned;
+		---------------------------------------------------------- -->
+			<a id="sidebar-toggle"></a>	  
+			 
+			<footer>
+				<!-- <a href=""><img src="themes/iii-d6/images/global/banner_footer.png" /></a>	 -->
+				<div class="wrapper-962">
+					<div class="grid-wrapper"> 
+						<div class="grid-962 three-column-962">
+							<a id="logo-footer" href="/"></a>
+							<div class="menu-smedia">
+								<label class="menu">Connect With Us</label>
+								<ul> 
+									
+		<li class="smedia_fb"><a href="https://www.facebook.com/iiiorg/" target="_blank"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 117.6685 226.584"><path id="f" class="cls-1" d="M76.3765,226.584V123.2285h34.6929l5.1938-40.2798H76.3765V57.2319c0-11.6621,3.2383-19.6094,19.9624-19.6094l21.3296-.0097V1.5869A285.42388,285.42388,0,0,0,86.5874,0C55.835,0,34.7813,18.771,34.7813,53.2436V82.9487H0v40.2798H34.7813V226.584Z"/></svg></a></li>
+		<li class="smedia_tw"><a href="https://twitter.com/iiiorg" target="_blank"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 273.38959 222.1782"><path class="cls-1" d="M273.38959,26.3008a112.124,112.124,0,0,1-32.2148,8.832,56.25181,56.25181,0,0,0,24.6621-31.0313,112.29873,112.29873,0,0,1-35.6172,13.6114,56.142,56.142,0,0,0-95.5791,51.1572A159.23574,159.23574,0,0,1,19.0322,10.2666,56.15109,56.15109,0,0,0,36.3906,85.1504a55.861,55.861,0,0,1-25.40529-7.0157c-.00391.2344-.00481.4688-.00481.7051a56.12288,56.12288,0,0,0,44.9931,54.9986,56.23,56.23,0,0,1-25.3301.9609,56.14724,56.14724,0,0,0,52.3956,38.9531,112.54222,112.54222,0,0,1-69.6592,24.0098A114.17451,114.17451,0,0,1,0,196.979a158.75988,158.75988,0,0,0,85.9795,25.1992c103.1689,0,159.5849-85.4668,159.5849-159.5864q0-3.64755-.16208-7.2559A113.99219,113.99219,0,0,0,273.38959,26.3008Z"/></svg></a></li>
+		<li class="smedia_youtube"><a href="https://www.youtube.com/user/iiivideo" target="_blank"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 20 14.06678"><g id="Lozenge"><path class="cls-1" d="M19.80029,3.03467a4.32693,4.32693,0,0,0-.7951-1.98517A2.8605,2.8605,0,0,0,17.00128.20233C14.20257,0,10.00433,0,10.00433,0H9.99567s-4.19812,0-6.997.20233A2.861,2.861,0,0,0,.99481,1.0495,4.32517,4.32517,0,0,0,.2,3.03467,30.24514,30.24514,0,0,0,0,6.27155V7.78888a30.24694,30.24694,0,0,0,.2,3.23694A4.32517,4.32517,0,0,0,.9948,13.011a3.39138,3.39138,0,0,0,2.20526.85486c1.6.15344,6.79993.20093,6.79993.20093s4.20258-.00635,7.00128-.20862a2.8605,2.8605,0,0,0,2.00391-.84717,4.32693,4.32693,0,0,0,.7951-1.98517A30.29228,30.29228,0,0,0,20,7.78888V6.27155A30.29065,30.29065,0,0,0,19.80029,3.03467ZM7.93524,9.62767,7.93433,4.00812l5.40411,2.81952Z"/></g></svg></a></li>
+		<!-- li class="smedia_pinterest"><a href="https://www.pinterest.com/iiiorg/" target="_blank"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 16.12049 20"><path class="cls-1" d="M3.46056,19.69448A12.09982,12.09982,0,0,1,3.50442,16.074c.22928-.985,1.48-6.27375,1.48-6.27375a4.55656,4.55656,0,0,1-.37757-1.87387c0-1.755,1.01721-3.06523,2.28377-3.06523A1.58562,1.58562,0,0,1,8.48762,6.639a25.42349,25.42349,0,0,1-1.04536,4.20237,1.83253,1.83253,0,0,0,1.869,2.28073c2.24331,0,3.96763-2.36536,3.96763-5.77973A4.9824,4.9824,0,0,0,8.46015,2.20153q-.22664-.00733-.45325.006a5.46319,5.46319,0,0,0-5.694,5.22214q-.00551.12754-.00506.25524a4.90979,4.90979,0,0,0,.93928,2.88035.37743.37743,0,0,1,.08756.362c-.09584.3987-.30876,1.256-.35056,1.43138-.05508.23106-.18294.28-.42207.16881C.98554,11.79362,0,9.489,0,7.63781,0,3.65634,2.89279,0,8.33949,0c4.37835,0,7.781,3.11992,7.781,7.28954,0,4.34984-2.74271,7.85056-6.54951,7.85056a3.378,3.378,0,0,1-2.89282-1.44927s-.63284,2.40984-.78628,3.00036A14.1084,14.1084,0,0,1,4.32315,20Z"/></svg></a></li -->
+		<li class="smedia_linkedin"><a href="https://www.linkedin.com/company/insurance-information-institute" target="_blank"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 25.76364 25.71977"><path class="cls-1" d="M.42382,8.54057H5.76854v17.1792H.42382ZM3.09765,0A3.09569,3.09569,0,1,1,0,3.09473,3.09618,3.09618,0,0,1,3.09765,0"/><path class="cls-1" d="M9.11914,8.54057h5.1182v2.3471h.0732a5.608,5.608,0,0,1,5.0518-2.7749c5.4023,0,6.4013,3.5572,6.4013,8.1841v9.4229h-5.334v-8.3536c0-1.9921-.039-4.5556-2.7753-4.5556-2.7784,0-3.2022,2.1699-3.2022,4.4111v8.4981h-5.333Z"/></svg></a></li>
+		<!-- li class="smedia_gplus"><a href="https://plus.google.com/+IiiOrg" target="_blank"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 22 14"><path class="cls-1" d="M22,6H20V4H18V6H16V8h2v2h2V8h2ZM7,6V8.4h3.97A3.7802,3.7802,0,0,1,7,11.42,4.42074,4.42074,0,0,1,7,2.58,3.93932,3.93932,0,0,1,9.79,3.66l1.9-1.83A6.71,6.71,0,0,0,7,0,7,7,0,0,0,7,14a6.45683,6.45683,0,0,0,6.72-6.84A6.439,6.439,0,0,0,13.61,6Z"/></svg></a></li -->
+	
+								</ul>
+							</div>
+						</div>
+						<div class="grid-962 seven-column-962"> 
+							<div id="menu-footer">
+								<div>
+									<ul class="menu">
+										<li><label class="menu">Main</label></li>
+										<li><a href="/insurance-basics">Insurance: The Basics</a></li>
+										<li><a href="/research-data">Research + Data</a></li>
+										<li><a href="/resource-center">Resource Center</a></li>
+									</ul>
+									<ul class="menu">
+										<li><label class="menu">En Espa&ntilde;ol</label></li>
+										
+	<li><a href="/insurance-basics/conceptos-basicos-seguros">Conceptos B&aacute;sicos de Seguros</a></li>
+	
+									</ul>
+
+
+                                                                        <ul class="menu">
+                                                                                <li><label class="menu">Blogs</label></li>
+                                                                                <li><a href="https://resilience.iii.org/">Resilience Accelerator</a></li>
+                                                                                <li><a href="https://www.iii.org/insuranceindustryblog/">The Triple-I Blog</a></li>
+                                                                        </ul>
+
+
+								</div>
+								<div>
+									<ul class="menu" style="">
+										<li><label class="menu">Membership</label></li>
+										
+		<li><a href="https://iiimembership.org/" target="_blank">Learn More About Membership</a></li>
+		<li><a href="/user/register">Register for a Member Account</a></li>
+		
+									</ul>
+								
+                                    <ul class="menu">
+                                            <li><label class="menu">Amplify</label></li>
+                                             <li><a href="/amplify">Learn More About Amplify</a></li>
+                                    </ul>
+
+
+
+								</div>
+								<div>
+									<ul class="menu">
+										<li><label class="menu">More</label></li>
+										<li><a href="/about-us">About the I.I.I.</a></li>
+										<li><a href="https://www.iii.org/triple-i-advertising-sponsorship-opportunities">Advertising Opportunities</a></li>
+										<li><a href="/services/directory">Industry Directory</a></li>
+										<li><a href="/services/permission-use-iii-content">Permissions</a></li>
+										<li><a href="/privacy-policy">Privacy Policy</a></li>
+										<li><a href="/terms-use">Terms of Use</a></li>
+										<li><a href="/copyright-policy">Copyright Policy</a></li>
+										<li><a href="/sitemap">Site Map</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div> 
+				</div>
+				<div id="copyright">
+					<p>&copy; Copyright 2022, Insurance Information Institute, Inc.<br /> 
+						All Rights Reserved.</p>
+				</div>		
+			</footer> 
+		  </div>
+</div>
+  <script type="text/javascript" src="https://www.iii.org/sites/all/modules/highlight/js/highlight.js?r7271p"></script>
+<!--script>(function(e,t,s,n){var o,c,m;e.SMCX=e.SMCX||[],t.getElementById(n)||(o=t.getElementsByTagName(s),c=o[o.length-1],m=t.createElement(s),m.type="text/javascript",m.async=!0,m.id=n,m.src=["https:"===location.protocol?"https://":"https://","widget.surveymonkey.com/collect/website/js/27MkPnY02uCos_2F04NOdeQRgfRYDPlPR_2FsUZRTOcuhBfWDRMNFLhmJhelqmE3Jm26.js"].join(""),c.parentNode.insertBefore(m,c))})(window,document,"script","smcx-sdk");</script-->
+<script type="text/javascript"> _linkedin_partner_id = "80820"; window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || []; window._linkedin_data_partner_ids.push(_linkedin_partner_id); </script><script type="text/javascript"> (function(){var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(); </script> <noscript> <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=80820&fmt=gif" /> </noscript>
+
+</body>
+</html>
