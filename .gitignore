@@ -130,8 +130,6 @@ dmypy.json
 
 # images
 *.jpg
-Data
 
 # Tar directories
-# *.tar
-
+*.tar
