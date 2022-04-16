@@ -44,8 +44,8 @@ The model's performance was initially evaluated using both the Accuracy metric a
 
 | Dataset | Accuracy | Loss |
 | :--- | :--- | :--- |
-| Training | 0.9715 | 0.0671 |
-| Validation | 0.9844 | 0.0417  |
+| Training | 0.969 | 0.0827 |
+| Validation | 0.978 | 0.0670  |
 
 The next evaluation was to identify how well the model performed on unseen data from within the Testing set (183 images). Evaluating the result of these predictions, and focusing on those that were misclassified as False Negatives were the most important for the problem statement mentioned previously. In attempting to identify wildfire smoke in an image, it was imperative to minimize the number of False Negatives (where Smoke exists in the image, but is classified as No-Smoke) the model predicted.
 
@@ -53,10 +53,10 @@ The output of the model's predictions classified as follows:
 
 | Classification | Count | 
 | :--- | :--- |
-| True Positive (TP) | 48 | 
+| True Positive (TP) | 49 | 
 | True Negative (TN) | 132 |
 | False Positive (FP) | 0 | 
-| False Negative (FN) | 3 |
+| False Negative (FN) | 2 |
 
 ### Conclusions
 
