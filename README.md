@@ -2,14 +2,13 @@
 
 ## Identifying Wildfire Smoke within an image
 
-### Project Status: [Incomplete]
+### Project Status: [Complete]
 
 ### Introduction
 
 Over the past thirty years, the number of wildfires in the United States have decreased, yet the annual average of burned acreage has more than doubled. 
 "Since 2000, an annual average of 70,600 wildfires has burned an annual average of 7.0 million acres. This figure is more than double the average annual acreage burned in the 1990s (3.3 million acres), although a greater number of fires occurred  annually in the 1990s (78,600 average).[[1]](#1)" 
     
-<!-- <img src="./acres_burned.png" width="300" height="300"> -->
 This spike in fire intensity has caused some of the most costly and destructive fires in United States history. As it stands today, nine of the ten most costly fires (evaluated by loss in millions) in the United States have occurred since 2007.
 
 #### Most Costly Fires in United States
@@ -39,10 +38,6 @@ In order to maximize the training data for the models I built, my initial step w
 
 Once my data had been transformed properly, I then built the architecture for my convolutional neural network. The model incorporates three convolutional and maxpooling layers,  followed by two fully connected (dense) layers, a dropout layer (to assist with potential overfitting), and finally a non-linear layer. As convolutional networks operate linearly, this final layer introduces non-linearity to the activation map. As this model is a binary classification, in that the intent of this model is to determine whether or not smoke is present within an image, I used the sigmoid activation function which calculates the probabilities between 0 and 1.
 
-The following image outlines the architecture of a model similar to the one I generated:
-
-<!-- <img src="./cnn_architecture.jpeg" width="100" height="100"> -->
-
 ### Model Performance
 
 The model's performance was initially evaluated using both the Accuracy metric and Loss, to determine how well the model predicted on both the Training and Validation datasets. The following table reflects the model's performance:
@@ -52,7 +47,7 @@ The model's performance was initially evaluated using both the Accuracy metric a
 | Training | 0.9715 | 0.0671 |
 | Validation | 0.9844 | 0.0417  |
 
-The next evaluation was to identify how well the model performed on unseen data from within the Testing set (183 images). Evaluating the result of these predictions, and focusing on those that were misclassified as False Positive were the most important for the problem statement mentioned previously. In attempting to identify wildfire smoke in an image, it was imperative to minimize the number of False Positives (where Smoke exists in the image, but is classified as No-Smoke) the model predicted.
+The next evaluation was to identify how well the model performed on unseen data from within the Testing set (183 images). Evaluating the result of these predictions, and focusing on those that were misclassified as False Negatives were the most important for the problem statement mentioned previously. In attempting to identify wildfire smoke in an image, it was imperative to minimize the number of False Negatives (where Smoke exists in the image, but is classified as No-Smoke) the model predicted.
 
 The output of the model's predictions classified as follows:
 
@@ -69,7 +64,7 @@ In conclusion, the model performed well enough on this very particular type of i
 
 ### Next Steps
 
-In addition to adding more data for the model to be trained on, I would also like to alter the data in a way that would support bounding boxes to be added on the output data. A stretch goal for this project would be to tie this model to some sort of alert application that could trigger an email (or some sort of communication) when the model detects smoke 
+In addition to adding more data for the model to be trained on, I would also like to alter the data in a way that would support bounding boxes to be added on the output data. A stretch goal for this project would be to tie this model to some sort of alert application that could trigger an email (or some sort of communication) when the model detects smoke.
 
 ## References
 <a id="1">[1]</a> 
